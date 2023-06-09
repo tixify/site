@@ -619,29 +619,29 @@ function all() {
                                                        fill="black">
                                                    </rect>
                                                    <text fill="white" xml:space="preserve" style="white-space: pre"
-                                                       font-family="Suisse Intl" font-size="18" font-weight="500"
+                                                       font-family="Averta_Regular" font-size="18" font-weight="500"
                                                        letter-spacing="-0.02em">
                                                        <tspan x="46.5156" y="69.66">9</tspan>
                                                    </text>
                                                    <text fill="white" xml:space="preserve" style="white-space: pre"
-                                                       font-family="Suisse Intl" font-size="9" font-weight="bold"
+                                                       font-family="Averta_Regular" font-size="9" font-weight="bold"
                                                        letter-spacing="0em">
                                                        <tspan x="42.231" y="53.33">JUN</tspan>
                                                    </text>
                                                    <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                       font-family="Suisse Intl" font-size="24" font-weight="600"
+                                                       font-family="Averta_Regular" font-size="24" font-weight="600"
                                                        letter-spacing="-0.02em">
                                                        <tspan x="92" y="47.88">Music Festival
                                                        </tspan>
                                                    </text>
                                                    <text opacity="0.5" fill="black" xml:space="preserve"
-                                                       style="white-space: pre" font-family="Suisse Intl"
+                                                       style="white-space: pre" font-family="Averta_Regular"
                                                        font-size="13" letter-spacing="0em">
                                                        <tspan x="92" y="73.81">Thu, 4 Aug 10:00 - Sun, 8 Aug 22:00
                                                        </tspan>
                                                    </text>
                                                    <text opacity="0.5" fill="black" xml:space="preserve"
-                                                       style="white-space: pre" font-family="Suisse Intl"
+                                                       style="white-space: pre" font-family="Averta_Regular"
                                                        font-size="11" letter-spacing="0em">
                                                        <tspan x="92" y="91.07">HÅ¯lkova 35, 19700, Prague
                                                        </tspan>
@@ -658,7 +658,7 @@ function all() {
                                                </rect>
                                                <!--                <rect x="16" y="126" width="312" height="304" rx="6" fill="white"/>-->
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="36" y="162.92">Available tickets</tspan>
                                                </text>
@@ -669,12 +669,12 @@ function all() {
                                                <g style="clip-path: url(#dontshowoverflow);">
                                                    <g style="opacity: 0;" overflow="hidden;">
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="36" y="224.92">Early Bird Ticket</tspan>
                                                        </text>
                                                        <text opacity="0.4" fill="black" xml:space="preserve"
-                                                           style="white-space: pre" font-family="Suisse Intl"
+                                                           style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="11" letter-spacing="0em">
                                                            <tspan x="36" y="244.07">â‚¬20.00</tspan>
                                                        </text>
@@ -685,7 +685,7 @@ function all() {
                                                                d="M172 227H186V229H172V227Z" fill="black"></path>
                                                        </g>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="203.75" y="233.92">0</tspan>
                                                        </text>
@@ -695,19 +695,19 @@ function all() {
                                                            d="M240 227V221H238V227H232V229H238V235H240V229H246V227H240Z"
                                                            fill="#8353F9"></path>
                                                        <text opacity="0.15" fill="black" xml:space="preserve"
-                                                           style="white-space: pre" font-family="Suisse Intl"
+                                                           style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="16" font-weight="500" letter-spacing="-0.01em">
                                                            <tspan x="263.484" y="233.92">â‚¬0,00</tspan>
                                                        </text>
                                                        <rect x="16" y="268" width="312" height="1" fill="black"
                                                            fill-opacity="0.03"></rect>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="36" y="305.92">Regular Ticket</tspan>
                                                        </text>
                                                        <text opacity="0.4" fill="black" xml:space="preserve"
-                                                           style="white-space: pre" font-family="Suisse Intl"
+                                                           style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="11" letter-spacing="0em">
                                                            <tspan x="36" y="325.07">â‚¬32.00</tspan>
                                                        </text>
@@ -718,7 +718,7 @@ function all() {
                                                                d="M172 308H186V310H172V308Z" fill="black"></path>
                                                        </g>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="203.75" y="314.92">0</tspan>
                                                        </text>
@@ -732,19 +732,19 @@ function all() {
                                                            d="M240 308V302H238V308H232V310H238V316H240V310H246V308H240Z"
                                                            fill="#8353F9"></path>
                                                        <text opacity="0.15" fill="black" xml:space="preserve"
-                                                           style="white-space: pre" font-family="Suisse Intl"
+                                                           style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="16" font-weight="500" letter-spacing="-0.01em">
                                                            <tspan x="263.484" y="314.92">â‚¬0,00</tspan>
                                                        </text>
                                                        <rect x="16" y="349" width="312" height="1" fill="black"
                                                            fill-opacity="0.03"></rect>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="36" y="386.92">VIP Ticket</tspan>
                                                        </text>
                                                        <text opacity="0.4" fill="black" xml:space="preserve"
-                                                           style="white-space: pre" font-family="Suisse Intl"
+                                                           style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="11" letter-spacing="0em">
                                                            <tspan x="36" y="406.07">â‚¬60.00 </tspan>
                                                        </text>
@@ -755,7 +755,7 @@ function all() {
                                                                d="M172 389H186V391H172V389Z" fill="black"></path>
                                                        </g>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="203.75" y="395.92">0</tspan>
                                                        </text>
@@ -765,7 +765,7 @@ function all() {
                                                            d="M240 389V383H238V389H232V391H238V397H240V391H246V389H240Z"
                                                            fill="#8353F9"></path>
                                                        <text opacity="0.15" fill="black" xml:space="preserve"
-                                                           style="white-space: pre" font-family="Suisse Intl"
+                                                           style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="16" font-weight="500" letter-spacing="-0.01em">
                                                            <tspan x="263.484" y="395.92">â‚¬0,00</tspan>
                                                        </text>
@@ -829,7 +829,7 @@ function all() {
                                                    fill="#8353F9">
                                                </path>
                                                <text fill="#8353F9" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="14" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="14" font-weight="500"
                                                    letter-spacing="0em">
                                                    <tspan x="68" y="44.18">I have a promo code</tspan>
                                                </text>
@@ -877,7 +877,7 @@ function all() {
                                                    d="M42.5654 21.3531L37.5654 29.3531L36.4284 29.3428L33.4284 24.3428L34.5718 23.6568L37.0117 27.7234L41.4348 20.6465L42.5654 21.3531Z"
                                                    fill="white" stroke="white" stroke-width="0.5"></path>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                                   font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                    <tspan x="64" y="29.07">Accept the Tixify terms of service</tspan>
                                                </text>
                                            </g>
@@ -928,28 +928,28 @@ function all() {
                                                    <rect width="48" height="48" transform="translate(35 47)"
                                                        fill="black"></rect>
                                                    <text fill="white" xml:space="preserve" style="white-space: pre"
-                                                       font-family="Suisse Intl" font-size="18" font-weight="500"
+                                                       font-family="Averta_Regular" font-size="18" font-weight="500"
                                                        letter-spacing="-0.02em">
                                                        <tspan x="53.5156" y="81.66">9</tspan>
                                                    </text>
                                                    <text fill="white" xml:space="preserve" style="white-space: pre"
-                                                       font-family="Suisse Intl" font-size="9" font-weight="bold"
+                                                       font-family="Averta_Regular" font-size="9" font-weight="bold"
                                                        letter-spacing="0em">
                                                        <tspan x="49.231" y="65.33">JUN</tspan>
                                                    </text>
                                                    <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                       font-family="Suisse Intl" font-size="24" font-weight="600"
+                                                       font-family="Averta_Regular" font-size="24" font-weight="600"
                                                        letter-spacing="-0.02em">
                                                        <tspan x="99" y="59.88">Music Festival</tspan>
                                                    </text>
                                                    <text opacity="0.5" fill="black" xml:space="preserve"
-                                                       style="white-space: pre" font-family="Suisse Intl"
+                                                       style="white-space: pre" font-family="Averta_Regular"
                                                        font-size="13" letter-spacing="0em">
                                                        <tspan x="99" y="85.81">Thu, 4 Aug 10:00 - Sun, 8 Aug 22:00
                                                        </tspan>
                                                    </text>
                                                    <text opacity="0.5" fill="black" xml:space="preserve"
-                                                       style="white-space: pre" font-family="Suisse Intl"
+                                                       style="white-space: pre" font-family="Averta_Regular"
                                                        font-size="11" letter-spacing="0em">
                                                        <tspan x="99" y="103.07">HÅ¯lkova 35, 19700, Prague
                                                        </tspan>
@@ -964,7 +964,7 @@ function all() {
                                                <rect x="23" y="138" width="312" height="304" rx="6" fill="white">
                                                </rect>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="43" y="174.92">Available tickets</tspan>
                                                </text>
@@ -972,12 +972,12 @@ function all() {
                                                    d="M307 168.281L311.376 171.781L312.625 170.22L307.625 166.22L306.376 166.22L301.376 170.22L302.625 171.781L307 168.281Z"
                                                    fill="black"></path>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="43" y="236.92">Early Bird Ticket</tspan>
                                                </text>
                                                <text opacity="0.4" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
                                                    <tspan x="43" y="256.07">â‚¬25.00</tspan>
                                                </text>
@@ -988,7 +988,7 @@ function all() {
                                                        d="M179 239H193V241H179V239Z" fill="black"></path>
                                                </g>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="210.75" y="245.92">0</tspan>
                                                </text>
@@ -998,19 +998,19 @@ function all() {
                                                    d="M247 239V233H245V239H239V241H245V247H247V241H253V239H247Z"
                                                    fill="#8353F9" class="branding-shop-brandable"></path>
                                                <text opacity="0.15" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="16"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                    font-weight="500" letter-spacing="-0.01em">
                                                    <tspan x="270.484" y="245.92">â‚¬0,00</tspan>
                                                </text>
                                                <rect x="23" y="280" width="312" height="1" fill="black"
                                                    fill-opacity="0.03"></rect>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="43" y="317.92">Regular Ticket</tspan>
                                                </text>
                                                <text opacity="0.4" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
                                                    <tspan x="43" y="337.07">â‚¬32.00</tspan>
                                                </text>
@@ -1021,7 +1021,7 @@ function all() {
                                                        d="M179 320H193V322H179V320Z" fill="black"></path>
                                                </g>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="210.75" y="326.92" class="current">0</tspan>
                                                </text>
@@ -1032,19 +1032,19 @@ function all() {
                                                    fill="#8353F9" class="branding-shop-brandable shop_circle_2"></path>
                                                <text class="text_price" opacity="0.15" fill="black"
                                                    xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="270.484" y="326.92" class="price">â‚¬0,00</tspan>
                                                </text>
                                                <rect x="23" y="361" width="312" height="1" fill="black"
                                                    fill-opacity="0.03"></rect>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="43" y="398.92">Camping Ticket</tspan>
                                                </text>
                                                <text opacity="0.4" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
                                                    <tspan x="43" y="418.07">â‚¬60.00 </tspan>
                                                </text>
@@ -1055,7 +1055,7 @@ function all() {
                                                        d="M179 401H193V403H179V401Z" fill="black"></path>
                                                </g>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="210.75" y="407.92">0</tspan>
                                                </text>
@@ -1065,7 +1065,7 @@ function all() {
                                                    d="M247 401V395H245V401H239V403H245V409H247V403H253V401H247Z"
                                                    fill="#8353F9" class="branding-shop-brandable"></path>
                                                <text opacity="0.15" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="16"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                    font-weight="500" letter-spacing="-0.01em">
                                                    <tspan x="270.484" y="407.92">â‚¬0,00</tspan>
                                                </text>
@@ -1083,7 +1083,7 @@ function all() {
                                                    d="M55 494L40 505L38.8173 503.387L53.8173 492.387L55 494Z"
                                                    fill="#8353F9"></path>
                                                <text fill="#8353F9" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="14" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="14" font-weight="500"
                                                    letter-spacing="0em">
                                                    <tspan x="75" y="503.18">I have a promo code</tspan>
                                                </text>
@@ -1097,7 +1097,7 @@ function all() {
                                                    d="M49.5654 564.353L44.5654 572.353L43.4284 572.343L40.4284 567.343L41.5718 566.657L44.0117 570.723L48.4348 563.646L49.5654 564.353Z"
                                                    fill="white" stroke="white" stroke-width="0.5"></path>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                                   font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                    <tspan x="71" y="572.07">Accept the Tixify terms of service</tspan>
                                                </text>
                                            </g>
@@ -1249,7 +1249,7 @@ function all() {
                                            <rect x="3" y="3" width="338" height="486" rx="12" fill="white"></rect>
                                            <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="13" font-weight="500"
+                                               font-family="Averta_Regular" font-size="13" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="28" y="38.81">First name<tspan fill="#8353F9"> *</tspan>
                                                </tspan>
@@ -1258,7 +1258,7 @@ function all() {
                                                d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
                                                fill="white" style="fill: rgb(255, 255, 255);"></path>
                                            <text class="auth_name" fill="#A5B1C3" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="14"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="14"
                                                font-weight="500" letter-spacing="0em">
                                                <tspan id="step-contact-details-first-name" x="40" y="73.18"
                                                    style="fill: rgb(0, 0, 0);"></tspan>
@@ -1268,7 +1268,7 @@ function all() {
                                                fill="black" fill-opacity="0.1" style="fill-opacity: 0.1; fill: black;">
                                            </path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="13" font-weight="500"
+                                               font-family="Averta_Regular" font-size="13" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="28" y="118.81">Last name<tspan fill="#8353F9"> *</tspan>
                                                </tspan>
@@ -1277,7 +1277,7 @@ function all() {
                                                d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
                                                fill="white" style="fill: rgb(255, 255, 255);"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan id="step-contact-details-last-name" x="40" y="153.18"
                                                    style="fill: rgb(0, 0, 0);"></tspan>
@@ -1286,7 +1286,7 @@ function all() {
                                                d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
                                                fill="black" fill-opacity="0.1"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="13" font-weight="500"
+                                               font-family="Averta_Regular" font-size="13" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="28" y="198.81">E-mail address<tspan fill="#8353F9"> *</tspan>
                                                </tspan>
@@ -1295,7 +1295,7 @@ function all() {
                                                d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
                                                fill="white" style="fill: rgb(255, 255, 255);"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan id="step-contact-details-email" x="40" y="233.18"
                                                    style="fill: rgb(0, 0, 0);"></tspan>
@@ -1304,7 +1304,7 @@ function all() {
                                                d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
                                                fill="black" fill-opacity="0.1"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="13" font-weight="500"
+                                               font-family="Averta_Regular" font-size="13" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="28" y="278.81">City<tspan fill="#8353F9"> *</tspan>
                                                </tspan>
@@ -1313,7 +1313,7 @@ function all() {
                                                d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
                                                fill="white" style="fill: rgb(255, 255, 255);"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="40" y="313.18" id="step-contact-details-city"
                                                    style="fill: rgb(0, 0, 0);"></tspan>
@@ -1322,7 +1322,7 @@ function all() {
                                                d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
                                                fill="black" fill-opacity="0.1"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="13" font-weight="500"
+                                               font-family="Averta_Regular" font-size="13" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="28" y="358.81">Date of birth<tspan fill="#8353F9"> *</tspan>
                                                </tspan>
@@ -1332,7 +1332,7 @@ function all() {
                                                    d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
                                                    fill="white" style="fill: rgb(255, 255, 255);"></path>
                                                <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="14" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="14" font-weight="500"
                                                    letter-spacing="0em">
                                                    <tspan x="40" y="393.18" id="step-contact-details-dob-day"
                                                        style="fill: rgb(0, 0, 0);"></tspan>
@@ -1349,7 +1349,7 @@ function all() {
                                                    d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
                                                    fill="white" style="fill: rgb(255, 255, 255);"></path>
                                                <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="14" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="14" font-weight="500"
                                                    letter-spacing="0em">
                                                    <tspan x="128" y="393.18" id="step-contact-details-dob-month"
                                                        style="fill: rgb(0, 0, 0);"></tspan>
@@ -1366,7 +1366,7 @@ function all() {
                                                    d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
                                                    fill="white" style="fill: rgb(255, 255, 255);"></path>
                                                <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="14" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="14" font-weight="500"
                                                    letter-spacing="0em">
                                                    <tspan x="240" y="393.18" id="step-contact-details-dob-year"
                                                        style="fill: rgb(0, 0, 0);"></tspan>
@@ -1387,7 +1387,7 @@ function all() {
                                                d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
                                                fill="white" stroke="white" stroke-width="0.5"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="13" font-weight="500"
+                                               font-family="Averta_Regular" font-size="13" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="60" y="463.81">Send me updates about this event</tspan>
                                            </text>
@@ -1510,7 +1510,7 @@ function all() {
                                                d="M46.0963 38.102V39.3227H43.0782V34.4242H45.9999V35.6445H44.2985V36.2116H45.9074V37.4323H44.2985V38.1024L46.0963 38.102ZM48.1013 34.4224H49.8375L51.314 39.3235H50.0438L49.7667 38.3755H48.1704L47.8929 39.3235H46.6244L48.1013 34.4224ZM48.5282 37.1561H49.4115L49.0063 35.7717H48.9325L48.5282 37.1561ZM53.1488 34.4229V38.1024H54.9562C54.4602 31.426 49.2091 29.9834 44.4348 29.9834H39.3466V34.4255H40.0996C41.4727 34.4255 42.3252 35.3565 42.3252 36.8548C42.3252 38.4007 41.4931 39.3235 40.0996 39.3235H39.3466V48.2112H44.4353C52.1938 48.2112 54.8958 44.6077 54.9914 39.3227H51.9276V34.4229H53.1488ZM39.3457 38.1024H40.0996C40.622 38.1024 41.1049 37.9513 41.1049 36.8543C41.1049 35.783 40.5677 35.6458 40.0996 35.6458H39.3457V38.1024Z"
                                                fill="#D50072"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="76" y="44.92">iDeal</tspan>
                                            </text>
@@ -1527,7 +1527,7 @@ function all() {
                                                        fill="black"></path>
                                                </g>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
                                                    <tspan x="79" y="115.92">Apple Pay</tspan>
                                                </text>
@@ -1572,7 +1572,7 @@ function all() {
                                                d="M40.9604 185.958C41.0097 185.709 41.207 185.627 41.3877 185.627C41.5685 185.627 41.7985 185.71 41.7985 185.958H40.9604ZM50.654 186.488V186.802C50.654 187.166 49.964 187.249 49.964 186.885C49.964 186.554 50.4731 186.471 50.654 186.488Z"
                                                fill="white"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="76" y="185.92">Bancontact</tspan>
                                            </text>
@@ -1589,7 +1589,7 @@ function all() {
                                                </rect>
                                            </g>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="76" y="256.92">Sofort</tspan>
                                            </text>
@@ -1610,29 +1610,29 @@ function all() {
                                                d="M34.8973 332.249L34.0744 328.024C34.0744 328.024 33.9749 327.179 32.9143 327.179H29.0599L29.0146 327.338C29.0146 327.338 30.8672 327.722 32.6442 329.16C34.3433 330.535 34.8973 332.249 34.8973 332.249Z"
                                                fill="#E6A540"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="76" y="327.92">Credit Card</tspan>
                                            </text>
                                            <rect x="8" y="357" width="328" height="1" fill="black" fill-opacity="0.03">
                                            </rect>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="20" font-weight="600"
+                                               font-family="Averta_Regular" font-size="20" font-weight="600"
                                                letter-spacing="-0.02em">
                                                <tspan x="28" y="399.4">Music Festival</tspan>
                                            </text>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="28" y="421.18">2 items</tspan>
                                            </text>
                                            <g clip-path="url(#clip1_3125_17794)">
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                                   font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                    <tspan x="291.819" y="394.07">Total</tspan>
                                                </text>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="18" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="18" font-weight="500"
                                                    letter-spacing="-0.02em">
                                                    <tspan x="236.03" y="416.66">â‚¬64.00</tspan>
                                                </text>
@@ -1716,7 +1716,7 @@ function all() {
                                                            d="M46.0963 38.102V39.3227H43.0782V34.4242H45.9999V35.6445H44.2985V36.2116H45.9074V37.4323H44.2985V38.1024L46.0963 38.102ZM48.1013 34.4224H49.8375L51.314 39.3235H50.0438L49.7667 38.3755H48.1704L47.8929 39.3235H46.6244L48.1013 34.4224ZM48.5282 37.1561H49.4115L49.0063 35.7717H48.9325L48.5282 37.1561ZM53.1488 34.4229V38.1024H54.9562C54.4602 31.426 49.2091 29.9834 44.4348 29.9834H39.3466V34.4255H40.0996C41.4727 34.4255 42.3252 35.3565 42.3252 36.8548C42.3252 38.4007 41.4931 39.3235 40.0996 39.3235H39.3466V48.2112H44.4353C52.1938 48.2112 54.8958 44.6077 54.9914 39.3227H51.9276V34.4229H53.1488ZM39.3457 38.1024H40.0996C40.622 38.1024 41.1049 37.9513 41.1049 36.8543C41.1049 35.783 40.5677 35.6458 40.0996 35.6458H39.3457V38.1024Z"
                                                            fill="#D50072"></path>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="76" y="44.92">iDeal</tspan>
                                                        </text>
@@ -1733,7 +1733,7 @@ function all() {
                                                                    fill="black"></path>
                                                            </g>
                                                            <text fill="black" xml:space="preserve"
-                                                               style="white-space: pre" font-family="Suisse Intl"
+                                                               style="white-space: pre" font-family="Averta_Regular"
                                                                font-size="16" font-weight="500"
                                                                letter-spacing="-0.01em">
                                                                <tspan x="79" y="115.92">Apple Pay</tspan>
@@ -1780,7 +1780,7 @@ function all() {
                                                            d="M40.9604 185.958C41.0097 185.709 41.207 185.627 41.3877 185.627C41.5685 185.627 41.7985 185.71 41.7985 185.958H40.9604ZM50.654 186.488V186.802C50.654 187.166 49.964 187.249 49.964 186.885C49.964 186.554 50.4731 186.471 50.654 186.488Z"
                                                            fill="white"></path>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="76" y="185.92">Bancontact</tspan>
                                                        </text>
@@ -1798,7 +1798,7 @@ function all() {
                                                                fill="url(#pattern0)"></rect>
                                                        </g>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="76" y="256.92">Sofort</tspan>
                                                        </text>
@@ -1820,30 +1820,30 @@ function all() {
                                                            d="M34.8973 332.249L34.0744 328.024C34.0744 328.024 33.9749 327.179 32.9143 327.179H29.0599L29.0146 327.338C29.0146 327.338 30.8672 327.722 32.6442 329.16C34.3433 330.535 34.8973 332.249 34.8973 332.249Z"
                                                            fill="#E6A540"></path>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="76" y="327.92">Credit Card</tspan>
                                                        </text>
                                                        <rect x="8" y="357" width="328" height="1" fill="black"
                                                            fill-opacity="0.03"></rect>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="20" font-weight="600"
+                                                           font-family="Averta_Regular" font-size="20" font-weight="600"
                                                            letter-spacing="-0.02em">
                                                            <tspan x="28" y="399.4">Outdoor Festival</tspan>
                                                        </text>
                                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                                            letter-spacing="-0.01em">
                                                            <tspan x="28" y="421.18">2 items</tspan>
                                                        </text>
                                                        <g clip-path="url(#clip1_3125_17794)">
                                                            <text fill="black" xml:space="preserve"
-                                                               style="white-space: pre" font-family="Suisse Intl"
+                                                               style="white-space: pre" font-family="Averta_Regular"
                                                                font-size="11" letter-spacing="0em">
                                                                <tspan x="291.819" y="394.07">Total</tspan>
                                                            </text>
                                                            <text fill="black" xml:space="preserve"
-                                                               style="white-space: pre" font-family="Suisse Intl"
+                                                               style="white-space: pre" font-family="Averta_Regular"
                                                                font-size="18" font-weight="500"
                                                                letter-spacing="-0.02em">
                                                                <tspan x="236.03" y="416.66">â‚¬32.00</tspan>
@@ -2035,11 +2035,11 @@ function all() {
                                    <g filter="url(#filter0_dd_3125_18764)">
                                        <rect x="8" y="3" width="328" height="72" rx="12" fill="white"></rect>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                           font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                            <tspan x="28" y="31.07">Total </tspan>
                                        </text>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="18" font-weight="500"
+                                           font-family="Averta_Regular" font-size="18" font-weight="500"
                                            letter-spacing="-0.02em">
                                            <tspan x="28.6392" y="53.66" class="total">â‚¬0.00</tspan>
                                        </text>
@@ -2047,7 +2047,7 @@ function all() {
                                            d="M164 39C164 25.7452 174.745 15 188 15H292C305.255 15 316 25.7452 316 39V39C316 52.2548 305.255 63 292 63H188C174.745 63 164 52.2548 164 39V39Z"
                                            fill="#8353F9"></path>
                                        <text fill="white" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                            letter-spacing="-0.01em">
                                            <tspan x="188" y="44.92">Continue</tspan>
                                        </text>
@@ -2099,7 +2099,7 @@ function all() {
                                        d="M46.8481 21.5297L39.3481 33.5297L37.6427 33.5142L33.1427 26.0142L34.8576 24.9852L38.5176 31.0851L45.1521 20.4697L46.8481 21.5297Z"
                                        fill="white"></path>
                                    <text fill="white" xml:space="preserve" style="white-space: pre"
-                                       font-family="Suisse Intl" font-size="16" font-weight="500"
+                                       font-family="Averta_Regular" font-size="16" font-weight="500"
                                        letter-spacing="-0.01em">
                                        <tspan x="68" y="32.92">Your payment was successful</tspan>
                                    </text>
@@ -2143,7 +2143,7 @@ function all() {
                                            <rect x="8" y="3" width="328" height="449" rx="12" fill="white"></rect>
                                            <!--                    <rect width="328" height="184" transform="translate(8 3)" fill="white"/>-->
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="32" font-weight="600"
+                                               font-family="Averta_Regular" font-size="32" font-weight="600"
                                                letter-spacing="-0.02em">
                                                <tspan text-anchor="middle" x="105%" y="52.84">Success, your</tspan>
                                                <tspan text-anchor="middle" x="155%" y="88.84">order's confirmed!
@@ -2156,7 +2156,7 @@ function all() {
                                                d="M97.5 129L97.5 139.919L100.875 137.219L102.125 138.781L97.1247 142.781H95.8753L90.8753 138.781L92.1247 137.219L95.5 139.919L95.5 129H97.5ZM105.5 146H87.5V148H105.5V146Z"
                                                fill="white"></path>
                                            <text fill="white" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="18" font-weight="500"
+                                               font-family="Averta_Regular" font-size="18" font-weight="500"
                                                letter-spacing="-0.02em">
                                                <tspan x="120.5" y="145.66">Download tickets</tspan>
                                            </text>
@@ -2164,24 +2164,24 @@ function all() {
                                                d="M115 213H116H134H135V214V215.288V215.903L134.451 216.18C133.259 216.782 132.545 217.855 132.545 219C132.545 220.145 133.259 221.218 134.451 221.82L135 222.097V222.712V224V225H134H116H115V224V214V213ZM117 215L117 223H121V221H123V223H132.59C131.362 222.05 130.545 220.632 130.545 219C130.545 217.368 131.362 215.95 132.59 215L123 215V217H121V215L117 215Z"
                                                fill="black"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="145.491" y="224.92">2 tickets for</tspan>
                                            </text>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="24" font-weight="600"
+                                               font-family="Averta_Regular" font-size="24" font-weight="600"
                                                letter-spacing="-0.02em">
                                                <tspan text-anchor="middle" x="90%" y="275.88">Music Festival</tspan>
                                            </text>
                                            <text opacity="0.5" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="13"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="13"
                                                letter-spacing="0em">
                                                <tspan text-anchor="middle" x="70%" y="297.81">
                                                    Thu, 4 Aug 10:00 - Sun, 8 Aug 22:00
                                                </tspan>
                                            </text>
                                            <text opacity="0.5" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
                                                <tspan text-anchor="middle" x="90%" y="315.07">HÅ¯lkova 35, 19700,Prague
                                                </tspan>
@@ -2191,7 +2191,7 @@ function all() {
                                                    d="M28 365C28 361.686 30.6863 359 34 359H310C313.314 359 316 361.686 316 365V425C316 428.314 313.314 431 310 431H34C30.6863 431 28 428.314 28 425V365Z"
                                                    fill="white"></path>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="13" letter-spacing="0em">
+                                                   font-family="Averta_Regular" font-size="13" letter-spacing="0em">
                                                    <tspan x="48" y="389.81">Regular ticket </tspan>
                                                    <tspan x="48" y="409.81">(2/2)</tspan>
                                                </text>
@@ -2199,14 +2199,14 @@ function all() {
                                                    d="M193.5 377L193.5 387.919L196.875 385.219L198.125 386.781L193.125 390.781H191.875L186.875 386.781L188.125 385.219L191.5 387.919L191.5 377H193.5ZM201.5 394H183.5V396H201.5V394Z"
                                                    fill="black"></path>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                                   font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                    <tspan x="167" y="411.07">Download</tspan>
                                                </text>
                                                <path fill-rule="evenodd" clip-rule="evenodd"
                                                    d="M249 378H257L258 379V387H256V381.414L247.707 389.707L246.293 388.293L254.586 380H249V378ZM258 394V396H240V394H258Z"
                                                    fill="black"></path>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                                   font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                    <tspan x="234" y="411.07">Share</tspan>
                                                </text>
                                                <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2281,7 +2281,7 @@ function all() {
                                        <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
 
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="38.81">First name<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2290,7 +2290,7 @@ function all() {
                                            d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="73.18">First name</tspan>
                                        </text>
@@ -2298,7 +2298,7 @@ function all() {
                                            d="M34 49.5H310V46.5H34V49.5ZM314.5 54V82H317.5V54H314.5ZM310 86.5H34V89.5H310V86.5ZM29.5 82V54H26.5V82H29.5ZM34 86.5C31.5147 86.5 29.5 84.4853 29.5 82H26.5C26.5 86.1421 29.8579 89.5 34 89.5V86.5ZM314.5 82C314.5 84.4853 312.485 86.5 310 86.5V89.5C314.142 89.5 317.5 86.1421 317.5 82H314.5ZM310 49.5C312.485 49.5 314.5 51.5147 314.5 54H317.5C317.5 49.8579 314.142 46.5 310 46.5V49.5ZM34 46.5C29.8579 46.5 26.5 49.8579 26.5 54H29.5C29.5 51.5147 31.5147 49.5 34 49.5V46.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="118.81">Last name<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2307,7 +2307,7 @@ function all() {
                                            d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="153.18">Last name</tspan>
                                        </text>
@@ -2315,7 +2315,7 @@ function all() {
                                            d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="198.81">E-mail address<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2324,7 +2324,7 @@ function all() {
                                            d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="233.18">E-mail address</tspan>
                                        </text>
@@ -2332,7 +2332,7 @@ function all() {
                                            d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="278.81">City<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2341,7 +2341,7 @@ function all() {
                                            d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="313.18">City</tspan>
                                        </text>
@@ -2349,7 +2349,7 @@ function all() {
                                            d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="358.81">Date of birth<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2359,7 +2359,7 @@ function all() {
                                                d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="40" y="393.18">Day</tspan>
                                            </text>
@@ -2375,7 +2375,7 @@ function all() {
                                                d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="128" y="393.18">Month</tspan>
                                            </text>
@@ -2391,7 +2391,7 @@ function all() {
                                                d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="240" y="393.18">Year</tspan>
                                            </text>
@@ -2411,7 +2411,7 @@ function all() {
                                            d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
                                            fill="white" stroke="white" stroke-width="0.5"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="60" y="463.81">Send me updates about this event</tspan>
                                        </text>
@@ -2507,7 +2507,7 @@ function all() {
                                        <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
 
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="38.81">Voornaam<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2516,7 +2516,7 @@ function all() {
                                            d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="73.18">Voornaam</tspan>
                                        </text>
@@ -2524,7 +2524,7 @@ function all() {
                                            d="M34 49.5H310V46.5H34V49.5ZM314.5 54V82H317.5V54H314.5ZM310 86.5H34V89.5H310V86.5ZM29.5 82V54H26.5V82H29.5ZM34 86.5C31.5147 86.5 29.5 84.4853 29.5 82H26.5C26.5 86.1421 29.8579 89.5 34 89.5V86.5ZM314.5 82C314.5 84.4853 312.485 86.5 310 86.5V89.5C314.142 89.5 317.5 86.1421 317.5 82H314.5ZM310 49.5C312.485 49.5 314.5 51.5147 314.5 54H317.5C317.5 49.8579 314.142 46.5 310 46.5V49.5ZM34 46.5C29.8579 46.5 26.5 49.8579 26.5 54H29.5C29.5 51.5147 31.5147 49.5 34 49.5V46.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="118.81">Achternaam<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2533,7 +2533,7 @@ function all() {
                                            d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="153.18">Achternaam</tspan>
                                        </text>
@@ -2541,7 +2541,7 @@ function all() {
                                            d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="198.81">E-mail adres<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2550,7 +2550,7 @@ function all() {
                                            d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="233.18">E-mail adres</tspan>
                                        </text>
@@ -2558,7 +2558,7 @@ function all() {
                                            d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="278.81">Stad<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2567,7 +2567,7 @@ function all() {
                                            d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="313.18">Stad</tspan>
                                        </text>
@@ -2575,7 +2575,7 @@ function all() {
                                            d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="358.81">Geboortedatum<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2585,7 +2585,7 @@ function all() {
                                                d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="40" y="393.18">Dag</tspan>
                                            </text>
@@ -2601,7 +2601,7 @@ function all() {
                                                d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="128" y="393.18">Maand</tspan>
                                            </text>
@@ -2617,7 +2617,7 @@ function all() {
                                                d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="240" y="393.18">Jaar</tspan>
                                            </text>
@@ -2637,7 +2637,7 @@ function all() {
                                            d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
                                            fill="white" stroke="white" stroke-width="0.5"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="60" y="463.81">Stuur mij updates over dit evenement</tspan>
                                        </text>
@@ -2733,7 +2733,7 @@ function all() {
                                        <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
 
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="38.81">Vorname<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2742,7 +2742,7 @@ function all() {
                                            d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="73.18">Vorname</tspan>
                                        </text>
@@ -2750,7 +2750,7 @@ function all() {
                                            d="M34 49.5H310V46.5H34V49.5ZM314.5 54V82H317.5V54H314.5ZM310 86.5H34V89.5H310V86.5ZM29.5 82V54H26.5V82H29.5ZM34 86.5C31.5147 86.5 29.5 84.4853 29.5 82H26.5C26.5 86.1421 29.8579 89.5 34 89.5V86.5ZM314.5 82C314.5 84.4853 312.485 86.5 310 86.5V89.5C314.142 89.5 317.5 86.1421 317.5 82H314.5ZM310 49.5C312.485 49.5 314.5 51.5147 314.5 54H317.5C317.5 49.8579 314.142 46.5 310 46.5V49.5ZM34 46.5C29.8579 46.5 26.5 49.8579 26.5 54H29.5C29.5 51.5147 31.5147 49.5 34 49.5V46.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="118.81">Nachname<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2759,7 +2759,7 @@ function all() {
                                            d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="153.18">Nachname</tspan>
                                        </text>
@@ -2767,7 +2767,7 @@ function all() {
                                            d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="198.81">E-Mail-Addresse<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2776,7 +2776,7 @@ function all() {
                                            d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="233.18">E-Mail-Addresse</tspan>
                                        </text>
@@ -2784,7 +2784,7 @@ function all() {
                                            d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="278.81">Stadt<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2793,7 +2793,7 @@ function all() {
                                            d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="313.18">Stadt</tspan>
                                        </text>
@@ -2801,7 +2801,7 @@ function all() {
                                            d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="358.81">Geburtstag<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2811,7 +2811,7 @@ function all() {
                                                d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="40" y="393.18">Tag</tspan>
                                            </text>
@@ -2827,7 +2827,7 @@ function all() {
                                                d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="128" y="393.18">Monat</tspan>
                                            </text>
@@ -2843,7 +2843,7 @@ function all() {
                                                d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="240" y="393.18">Jahr</tspan>
                                            </text>
@@ -2863,7 +2863,7 @@ function all() {
                                            d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
                                            fill="white" stroke="white" stroke-width="0.5"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="60" y="463.81">Senden Sie mir Updates</tspan>
                                        </text>
@@ -2959,7 +2959,7 @@ function all() {
                                        <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
 
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="38.81">Nombre de pila<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2968,7 +2968,7 @@ function all() {
                                            d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="73.18">Nombre de pila</tspan>
                                        </text>
@@ -2976,7 +2976,7 @@ function all() {
                                            d="M34 49.5H310V46.5H34V49.5ZM314.5 54V82H317.5V54H314.5ZM310 86.5H34V89.5H310V86.5ZM29.5 82V54H26.5V82H29.5ZM34 86.5C31.5147 86.5 29.5 84.4853 29.5 82H26.5C26.5 86.1421 29.8579 89.5 34 89.5V86.5ZM314.5 82C314.5 84.4853 312.485 86.5 310 86.5V89.5C314.142 89.5 317.5 86.1421 317.5 82H314.5ZM310 49.5C312.485 49.5 314.5 51.5147 314.5 54H317.5C317.5 49.8579 314.142 46.5 310 46.5V49.5ZM34 46.5C29.8579 46.5 26.5 49.8579 26.5 54H29.5C29.5 51.5147 31.5147 49.5 34 49.5V46.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="118.81">Apellido<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -2985,7 +2985,7 @@ function all() {
                                            d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="153.18">Apellido</tspan>
                                        </text>
@@ -2993,7 +2993,7 @@ function all() {
                                            d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="198.81">Correo electrÃ³nico<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -3002,7 +3002,7 @@ function all() {
                                            d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="233.18">Correo electrÃ³nico</tspan>
                                        </text>
@@ -3010,7 +3010,7 @@ function all() {
                                            d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="278.81">Ciudad<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -3019,7 +3019,7 @@ function all() {
                                            d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
                                            fill="white"></path>
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="14" font-weight="500"
+                                           font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="40" y="313.18">Ciudad</tspan>
                                        </text>
@@ -3027,7 +3027,7 @@ function all() {
                                            d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
                                            fill="black" fill-opacity="0.1"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="28" y="358.81">Fecha de nacimiento<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
@@ -3037,7 +3037,7 @@ function all() {
                                                d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="40" y="393.18">DÃ­a</tspan>
                                            </text>
@@ -3053,7 +3053,7 @@ function all() {
                                                d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="128" y="393.18">Mes</tspan>
                                            </text>
@@ -3069,7 +3069,7 @@ function all() {
                                                d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
                                                fill="white"></path>
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="240" y="393.18">AÃ±o</tspan>
                                            </text>
@@ -3089,7 +3089,7 @@ function all() {
                                            d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
                                            fill="white" stroke="white" stroke-width="0.5"></path>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="13" font-weight="500"
+                                           font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
                                            <tspan x="60" y="463.81">EnvÃ­ame actualizaciones</tspan>
                                        </text>
@@ -3185,11 +3185,11 @@ function all() {
                                    <g filter="url(#filter0_dd_3125_18764)">
                                        <rect x="8" y="3" width="328" height="72" rx="12" fill="white"></rect>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                           font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                            <tspan x="28" y="31.07">Total </tspan>
                                        </text>
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="18" font-weight="500"
+                                           font-family="Averta_Regular" font-size="18" font-weight="500"
                                            letter-spacing="-0.02em">
                                            <tspan x="28.6392" y="53.66" class="total">â‚¬0.00</tspan>
                                        </text>
@@ -3197,7 +3197,7 @@ function all() {
                                            d="M164 39C164 25.7452 174.745 15 188 15H292C305.255 15 316 25.7452 316 39V39C316 52.2548 305.255 63 292 63H188C174.745 63 164 52.2548 164 39V39Z"
                                            fill="#8353F9"></path>
                                        <text fill="white" xml:space="preserve" style="white-space: pre"
-                                           font-family="Suisse Intl" font-size="16" font-weight="500"
+                                           font-family="Averta_Regular" font-size="16" font-weight="500"
                                            letter-spacing="-0.01em">
                                            <tspan x="188" y="44.92">Continue</tspan>
                                        </text>
@@ -3348,27 +3348,27 @@ function all() {
                                                <rect width="48" height="48" transform="translate(35 47)" fill="black">
                                                </rect>
                                                <text fill="white" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="18" font-weight="500"
+                                                   font-family="Averta_Regular" font-size="18" font-weight="500"
                                                    letter-spacing="-0.02em">
                                                    <tspan x="53.5156" y="81.66">9</tspan>
                                                </text>
                                                <text fill="white" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="9" font-weight="bold"
+                                                   font-family="Averta_Regular" font-size="9" font-weight="bold"
                                                    letter-spacing="0em">
                                                    <tspan x="49.231" y="65.33">JUN</tspan>
                                                </text>
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
-                                                   font-family="Suisse Intl" font-size="24" font-weight="600"
+                                                   font-family="Averta_Regular" font-size="24" font-weight="600"
                                                    letter-spacing="-0.02em">
                                                    <tspan x="99" y="59.88">Music Festival</tspan>
                                                </text>
                                                <text opacity="0.5" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="13"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="13"
                                                    letter-spacing="0em">
                                                    <tspan x="99" y="85.81">Thu, 4 Aug 10:00 - Sun, 8 Aug 22:00</tspan>
                                                </text>
                                                <text opacity="0.5" fill="black" xml:space="preserve"
-                                                   style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                                   style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
                                                    <tspan x="99" y="103.07">HÅ¯lkova 35, 19700, Prague
                                                    </tspan>
@@ -3382,7 +3382,7 @@ function all() {
                                                fill-opacity="0.03"></rect>
                                            <rect x="23" y="138" width="312" height="304" rx="6" fill="white"></rect>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="43" y="174.92">Available tickets</tspan>
                                            </text>
@@ -3390,12 +3390,12 @@ function all() {
                                                d="M307 168.281L311.376 171.781L312.625 170.22L307.625 166.22L306.376 166.22L301.376 170.22L302.625 171.781L307 168.281Z"
                                                fill="black"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="43" y="236.92">Early Bird Ticket</tspan>
                                            </text>
                                            <text opacity="0.4" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
                                                <tspan x="43" y="256.07">â‚¬25.00</tspan>
                                            </text>
@@ -3405,7 +3405,7 @@ function all() {
                                                    d="M179 239H193V241H179V239Z" fill="black"></path>
                                            </g>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="210.75" y="245.92">0</tspan>
                                            </text>
@@ -3415,19 +3415,19 @@ function all() {
                                                d="M247 239V233H245V239H239V241H245V247H247V241H253V239H247Z"
                                                fill="#8353F9" class="branding-shop-brandable"></path>
                                            <text opacity="0.15" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="16"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                font-weight="500" letter-spacing="-0.01em">
                                                <tspan x="270.484" y="245.92">â‚¬0,00</tspan>
                                            </text>
                                            <rect x="23" y="280" width="312" height="1" fill="black"
                                                fill-opacity="0.03"></rect>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="43" y="317.92">Regular Ticket</tspan>
                                            </text>
                                            <text opacity="0.4" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
                                                <tspan x="43" y="337.07">â‚¬32.00</tspan>
                                            </text>
@@ -3437,7 +3437,7 @@ function all() {
                                                    d="M179 320H193V322H179V320Z" fill="black"></path>
                                            </g>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="210.75" y="326.92">0</tspan>
                                            </text>
@@ -3447,19 +3447,19 @@ function all() {
                                                d="M247 320V314H245V320H239V322H245V328H247V322H253V320H247Z"
                                                fill="#8353F9" class="branding-shop-brandable"></path>
                                            <text opacity="0.15" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="16"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                font-weight="500" letter-spacing="-0.01em">
                                                <tspan x="270.484" y="326.92">â‚¬0,00</tspan>
                                            </text>
                                            <rect x="23" y="361" width="312" height="1" fill="black"
                                                fill-opacity="0.03"></rect>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="43" y="398.92">Camping Ticket</tspan>
                                            </text>
                                            <text opacity="0.4" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="11"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
                                                <tspan x="43" y="418.07">â‚¬60.00 </tspan>
                                            </text>
@@ -3469,7 +3469,7 @@ function all() {
                                                    d="M179 401H193V403H179V401Z" fill="black"></path>
                                            </g>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="210.75" y="407.92">0</tspan>
                                            </text>
@@ -3479,7 +3479,7 @@ function all() {
                                                d="M247 401V395H245V401H239V403H245V409H247V403H253V401H247Z"
                                                fill="#8353F9" class="branding-shop-brandable"></path>
                                            <text opacity="0.15" fill="black" xml:space="preserve"
-                                               style="white-space: pre" font-family="Suisse Intl" font-size="16"
+                                               style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                font-weight="500" letter-spacing="-0.01em">
                                                <tspan x="270.484" y="407.92">â‚¬0,00</tspan>
                                            </text>
@@ -3496,7 +3496,7 @@ function all() {
                                                d="M55 494L40 505L38.8173 503.387L53.8173 492.387L55 494Z"
                                                fill="#8353F9"></path>
                                            <text fill="#8353F9" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="14" font-weight="500"
+                                               font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
                                                <tspan x="75" y="503.18">I have a promo code</tspan>
                                            </text>
@@ -3509,18 +3509,18 @@ function all() {
                                                d="M49.5654 564.353L44.5654 572.353L43.4284 572.343L40.4284 567.343L41.5718 566.657L44.0117 570.723L48.4348 563.646L49.5654 564.353Z"
                                                fill="white" stroke="white" stroke-width="0.5"></path>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                               font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                <tspan x="71" y="572.07">Accept the Tixify terms of service</tspan>
                                            </text>
                                        </g>
                                        <g filter="url(#filter3_dd_3690_16564)">
                                            <rect x="15" y="602" width="328" height="72" rx="12" fill="white"></rect>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="11" letter-spacing="0em">
+                                               font-family="Averta_Regular" font-size="11" letter-spacing="0em">
                                                <tspan x="35" y="630.07">Total</tspan>
                                            </text>
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="18" font-weight="500"
+                                               font-family="Averta_Regular" font-size="18" font-weight="500"
                                                letter-spacing="-0.02em">
                                                <tspan x="35.6392" y="652.66">â‚¬0.00</tspan>
                                            </text>
@@ -3528,7 +3528,7 @@ function all() {
                                                d="M171 638C171 624.745 181.745 614 195 614H299C312.255 614 323 624.745 323 638V638C323 651.255 312.255 662 299 662H195C181.745 662 171 651.255 171 638V638Z"
                                                fill="#8353F9"></path>
                                            <text fill="white" xml:space="preserve" style="white-space: pre"
-                                               font-family="Suisse Intl" font-size="16" font-weight="500"
+                                               font-family="Averta_Regular" font-size="16" font-weight="500"
                                                letter-spacing="-0.01em">
                                                <tspan x="195" y="643.92">Continue</tspan>
                                            </text>
