@@ -340,9 +340,9 @@ function all() {
             .set(current, {
                 onComplete: () => {
                     current.innerHTML = 0
-                    currentPrice.innerHTML = 'â‚¬0,00'
+                    currentPrice.innerHTML = '€0,00'
                     textprice.style.opacity = .15
-                    total.innerHTML = 'â‚¬0,00'
+                    total.innerHTML = '€0,00'
                 }
             })
             //branding-shop-brandable
@@ -354,9 +354,9 @@ function all() {
             .to(current, {
                 onComplete: () => {
                     current.innerHTML = 1
-                    currentPrice.innerHTML = 'â‚¬32,00'
+                    currentPrice.innerHTML = '€32,00'
                     textprice.style.opacity = 1
-                    total.innerHTML = 'â‚¬32,00'
+                    total.innerHTML = '€32,00'
                 }
             })
             .to('.shop_circle_2', {
@@ -372,8 +372,8 @@ function all() {
             .to(current, {
                 onComplete: () => {
                     current.innerHTML = 2
-                    currentPrice.innerHTML = 'â‚¬64,00'
-                    total.innerHTML = 'â‚¬64,00'
+                    currentPrice.innerHTML = '€64,00'
+                    total.innerHTML = '€64,00'
                 }
             })
             .to('.shop_circle_2', {
@@ -643,7 +643,7 @@ function all() {
                                                    <text opacity="0.5" fill="black" xml:space="preserve"
                                                        style="white-space: pre" font-family="Averta_Regular"
                                                        font-size="11" letter-spacing="0em">
-                                                       <tspan x="92" y="91.07">HÅ¯lkova 35, 19700, Prague
+                                                       <tspan x="92" y="91.07">Hulkova 35, 19700, Prague
                                                        </tspan>
                                                    </text>
                                                </g>
@@ -676,7 +676,7 @@ function all() {
                                                        <text opacity="0.4" fill="black" xml:space="preserve"
                                                            style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="11" letter-spacing="0em">
-                                                           <tspan x="36" y="244.07">â‚¬20.00</tspan>
+                                                           <tspan x="36" y="244.07">€20.00</tspan>
                                                        </text>
                                                        <g opacity="0.2">
                                                            <circle opacity="0.2" cx="179" cy="228" r="12" fill="black">
@@ -697,7 +697,7 @@ function all() {
                                                        <text opacity="0.15" fill="black" xml:space="preserve"
                                                            style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="16" font-weight="500" letter-spacing="-0.01em">
-                                                           <tspan x="263.484" y="233.92">â‚¬0,00</tspan>
+                                                           <tspan x="263.484" y="233.92">€0,00</tspan>
                                                        </text>
                                                        <rect x="16" y="268" width="312" height="1" fill="black"
                                                            fill-opacity="0.03"></rect>
@@ -709,7 +709,7 @@ function all() {
                                                        <text opacity="0.4" fill="black" xml:space="preserve"
                                                            style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="11" letter-spacing="0em">
-                                                           <tspan x="36" y="325.07">â‚¬32.00</tspan>
+                                                           <tspan x="36" y="325.07">€32.00</tspan>
                                                        </text>
                                                        <g opacity="0.2">
                                                            <circle opacity="0.2" cx="179" cy="309" r="12" fill="black">
@@ -734,7 +734,7 @@ function all() {
                                                        <text opacity="0.15" fill="black" xml:space="preserve"
                                                            style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="16" font-weight="500" letter-spacing="-0.01em">
-                                                           <tspan x="263.484" y="314.92">â‚¬0,00</tspan>
+                                                           <tspan x="263.484" y="314.92">€0,00</tspan>
                                                        </text>
                                                        <rect x="16" y="349" width="312" height="1" fill="black"
                                                            fill-opacity="0.03"></rect>
@@ -746,7 +746,7 @@ function all() {
                                                        <text opacity="0.4" fill="black" xml:space="preserve"
                                                            style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="11" letter-spacing="0em">
-                                                           <tspan x="36" y="406.07">â‚¬60.00 </tspan>
+                                                           <tspan x="36" y="406.07">€60.00 </tspan>
                                                        </text>
                                                        <g opacity="0.2">
                                                            <circle opacity="0.2" cx="179" cy="390" r="12" fill="black">
@@ -767,7 +767,7 @@ function all() {
                                                        <text opacity="0.15" fill="black" xml:space="preserve"
                                                            style="white-space: pre" font-family="Averta_Regular"
                                                            font-size="16" font-weight="500" letter-spacing="-0.01em">
-                                                           <tspan x="263.484" y="395.92">â‚¬0,00</tspan>
+                                                           <tspan x="263.484" y="395.92">€0,00</tspan>
                                                        </text>
                                                    </g>
                                                </g>
@@ -951,7 +951,7 @@ function all() {
                                                    <text opacity="0.5" fill="black" xml:space="preserve"
                                                        style="white-space: pre" font-family="Averta_Regular"
                                                        font-size="11" letter-spacing="0em">
-                                                       <tspan x="99" y="103.07">HÅ¯lkova 35, 19700, Prague
+                                                       <tspan x="99" y="103.07">Hulkova 35, 19700, Prague
                                                        </tspan>
                                                    </text>
                                                </g>
@@ -979,7 +979,7 @@ function all() {
                                                <text opacity="0.4" fill="black" xml:space="preserve"
                                                    style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
-                                                   <tspan x="43" y="256.07">â‚¬25.00</tspan>
+                                                   <tspan x="43" y="256.07">€25.00</tspan>
                                                </text>
                                                <g opacity="0.2">
                                                    <circle opacity="0.2" cx="186" cy="240" r="12" fill="black">
@@ -1000,7 +1000,7 @@ function all() {
                                                <text opacity="0.15" fill="black" xml:space="preserve"
                                                    style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                    font-weight="500" letter-spacing="-0.01em">
-                                                   <tspan x="270.484" y="245.92">â‚¬0,00</tspan>
+                                                   <tspan x="270.484" y="245.92">€0,00</tspan>
                                                </text>
                                                <rect x="23" y="280" width="312" height="1" fill="black"
                                                    fill-opacity="0.03"></rect>
@@ -1012,7 +1012,7 @@ function all() {
                                                <text opacity="0.4" fill="black" xml:space="preserve"
                                                    style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
-                                                   <tspan x="43" y="337.07">â‚¬32.00</tspan>
+                                                   <tspan x="43" y="337.07">€32.00</tspan>
                                                </text>
                                                <g opacity="0.2">
                                                    <circle opacity="0.2" cx="186" cy="321" r="12" fill="black">
@@ -1034,7 +1034,7 @@ function all() {
                                                    xml:space="preserve" style="white-space: pre"
                                                    font-family="Averta_Regular" font-size="16" font-weight="500"
                                                    letter-spacing="-0.01em">
-                                                   <tspan x="270.484" y="326.92" class="price">â‚¬0,00</tspan>
+                                                   <tspan x="270.484" y="326.92" class="price">€0,00</tspan>
                                                </text>
                                                <rect x="23" y="361" width="312" height="1" fill="black"
                                                    fill-opacity="0.03"></rect>
@@ -1046,7 +1046,7 @@ function all() {
                                                <text opacity="0.4" fill="black" xml:space="preserve"
                                                    style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
-                                                   <tspan x="43" y="418.07">â‚¬60.00 </tspan>
+                                                   <tspan x="43" y="418.07">€60.00 </tspan>
                                                </text>
                                                <g opacity="0.2">
                                                    <circle opacity="0.2" cx="186" cy="402" r="12" fill="black">
@@ -1067,7 +1067,7 @@ function all() {
                                                <text opacity="0.15" fill="black" xml:space="preserve"
                                                    style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                    font-weight="500" letter-spacing="-0.01em">
-                                                   <tspan x="270.484" y="407.92">â‚¬0,00</tspan>
+                                                   <tspan x="270.484" y="407.92">€0,00</tspan>
                                                </text>
                                            </g>
                                            <g filter="url(#filter1_dd_3690_16564)">
@@ -1476,11 +1476,11 @@ function all() {
                                    <div id="contact-details-auto-fill" class="mobile"
                                        style="opacity: 1; transform: translate(-50px, -95px);">
                                        <div class="fill-option active">
-                                           <p class="name">Dani Van O â€” Home</p>
+                                           <p class="name">Dani Van O.” Home</p>
                                            <p class="sub">Fill details.</p>
                                        </div>
                                        <div class="fill-option">
-                                           <p class="name">Dani Van Oranje â€” Work</p>
+                                           <p class="name">Dani Van O.” Work</p>
                                            <p class="sub">Fill details.</p>
                                        </div>
                                    </div>
@@ -1634,7 +1634,7 @@ function all() {
                                                <text fill="black" xml:space="preserve" style="white-space: pre"
                                                    font-family="Averta_Regular" font-size="18" font-weight="500"
                                                    letter-spacing="-0.02em">
-                                                   <tspan x="236.03" y="416.66">â‚¬64.00</tspan>
+                                                   <tspan x="236.03" y="416.66">€64.00</tspan>
                                                </text>
                                                <path fill-rule="evenodd" clip-rule="evenodd"
                                                    d="M308 410.719L303.625 407.219L302.375 408.78L307.375 412.78H308.625L313.625 408.78L312.375 407.219L308 410.719Z"
@@ -1846,7 +1846,7 @@ function all() {
                                                                style="white-space: pre" font-family="Averta_Regular"
                                                                font-size="18" font-weight="500"
                                                                letter-spacing="-0.02em">
-                                                               <tspan x="236.03" y="416.66">â‚¬32.00</tspan>
+                                                               <tspan x="236.03" y="416.66">€32.00</tspan>
                                                            </text>
                                                            <path fill-rule="evenodd" clip-rule="evenodd"
                                                                d="M308 410.719L303.625 407.219L302.375 408.78L307.375 412.78H308.625L313.625 408.78L312.375 407.219L308 410.719Z"
@@ -1996,7 +1996,7 @@ function all() {
                                                    <text fill="black" xml:space="preserve" style="white-space: pre"
                                                        font-family="SF Pro Text" font-size="20.3679"
                                                        letter-spacing="-0.015em">
-                                                       <tspan x="536.525" y="431.064">â‚¬ 64,00</tspan>
+                                                       <tspan x="536.525" y="431.064">€ 64,00</tspan>
                                                    </text>
                                                    <text fill="#B2B2B2" xml:space="preserve" style="white-space: pre"
                                                        font-family="SF Pro Text" font-size="20.3679"
@@ -2006,7 +2006,7 @@ function all() {
                                                    <text fill="black" xml:space="preserve" style="white-space: pre"
                                                        font-family="SF Pro Text" font-size="27.1573"
                                                        letter-spacing="-0.015em">
-                                                       <tspan x="512.253" y="485.003">â‚¬ 64,00</tspan>
+                                                       <tspan x="512.253" y="485.003">€ 64,00</tspan>
                                                    </text>
                                                    <line x1="27.1572" y1="511.542" x2="636.498" y2="511.542"
                                                        stroke="#B8B8B8" stroke-width="0.848665"></line>
@@ -2041,7 +2041,7 @@ function all() {
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
                                            font-family="Averta_Regular" font-size="18" font-weight="500"
                                            letter-spacing="-0.02em">
-                                           <tspan x="28.6392" y="53.66" class="total">â‚¬0.00</tspan>
+                                           <tspan x="28.6392" y="53.66" class="total">€0.00</tspan>
                                        </text>
                                        <path
                                            d="M164 39C164 25.7452 174.745 15 188 15H292C305.255 15 316 25.7452 316 39V39C316 52.2548 305.255 63 292 63H188C174.745 63 164 52.2548 164 39V39Z"
@@ -2183,7 +2183,7 @@ function all() {
                                            <text opacity="0.5" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
-                                               <tspan text-anchor="middle" x="90%" y="315.07">HÅ¯lkova 35, 19700,Prague
+                                               <tspan text-anchor="middle" x="90%" y="315.07">Hulkova 35, 19700,Prague
                                                </tspan>
                                            </text>
                                            <g filter="url(#filter1_d_3379_16000)">
@@ -3191,7 +3191,7 @@ function all() {
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
                                            font-family="Averta_Regular" font-size="18" font-weight="500"
                                            letter-spacing="-0.02em">
-                                           <tspan x="28.6392" y="53.66" class="total">â‚¬0.00</tspan>
+                                           <tspan x="28.6392" y="53.66" class="total">€0.00</tspan>
                                        </text>
                                        <path
                                            d="M164 39C164 25.7452 174.745 15 188 15H292C305.255 15 316 25.7452 316 39V39C316 52.2548 305.255 63 292 63H188C174.745 63 164 52.2548 164 39V39Z"
@@ -3370,7 +3370,7 @@ function all() {
                                                <text opacity="0.5" fill="black" xml:space="preserve"
                                                    style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                    letter-spacing="0em">
-                                                   <tspan x="99" y="103.07">HÅ¯lkova 35, 19700, Prague
+                                                   <tspan x="99" y="103.07">Hulkova 35, 19700, Prague
                                                    </tspan>
                                                </text>
                                            </g>
@@ -3397,7 +3397,7 @@ function all() {
                                            <text opacity="0.4" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
-                                               <tspan x="43" y="256.07">â‚¬25.00</tspan>
+                                               <tspan x="43" y="256.07">€25.00</tspan>
                                            </text>
                                            <g opacity="0.2">
                                                <circle opacity="0.2" cx="186" cy="240" r="12" fill="black"></circle>
@@ -3417,7 +3417,7 @@ function all() {
                                            <text opacity="0.15" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                font-weight="500" letter-spacing="-0.01em">
-                                               <tspan x="270.484" y="245.92">â‚¬0,00</tspan>
+                                               <tspan x="270.484" y="245.92">€0,00</tspan>
                                            </text>
                                            <rect x="23" y="280" width="312" height="1" fill="black"
                                                fill-opacity="0.03"></rect>
@@ -3429,7 +3429,7 @@ function all() {
                                            <text opacity="0.4" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
-                                               <tspan x="43" y="337.07">â‚¬32.00</tspan>
+                                               <tspan x="43" y="337.07">€32.00</tspan>
                                            </text>
                                            <g opacity="0.2">
                                                <circle opacity="0.2" cx="186" cy="321" r="12" fill="black"></circle>
@@ -3449,7 +3449,7 @@ function all() {
                                            <text opacity="0.15" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                font-weight="500" letter-spacing="-0.01em">
-                                               <tspan x="270.484" y="326.92">â‚¬0,00</tspan>
+                                               <tspan x="270.484" y="326.92">€0,00</tspan>
                                            </text>
                                            <rect x="23" y="361" width="312" height="1" fill="black"
                                                fill-opacity="0.03"></rect>
@@ -3461,7 +3461,7 @@ function all() {
                                            <text opacity="0.4" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="11"
                                                letter-spacing="0em">
-                                               <tspan x="43" y="418.07">â‚¬60.00 </tspan>
+                                               <tspan x="43" y="418.07">€60.00 </tspan>
                                            </text>
                                            <g opacity="0.2">
                                                <circle opacity="0.2" cx="186" cy="402" r="12" fill="black"></circle>
@@ -3481,7 +3481,7 @@ function all() {
                                            <text opacity="0.15" fill="black" xml:space="preserve"
                                                style="white-space: pre" font-family="Averta_Regular" font-size="16"
                                                font-weight="500" letter-spacing="-0.01em">
-                                               <tspan x="270.484" y="407.92">â‚¬0,00</tspan>
+                                               <tspan x="270.484" y="407.92">€0,00</tspan>
                                            </text>
                                        </g>
                                        <g filter="url(#filter1_dd_3690_16564)">
@@ -3522,7 +3522,7 @@ function all() {
                                            <text fill="black" xml:space="preserve" style="white-space: pre"
                                                font-family="Averta_Regular" font-size="18" font-weight="500"
                                                letter-spacing="-0.02em">
-                                               <tspan x="35.6392" y="652.66">â‚¬0.00</tspan>
+                                               <tspan x="35.6392" y="652.66">€0.00</tspan>
                                            </text>
                                            <path
                                                d="M171 638C171 624.745 181.745 614 195 614H299C312.255 614 323 624.745 323 638V638C323 651.255 312.255 662 299 662H195C181.745 662 171 651.255 171 638V638Z"
