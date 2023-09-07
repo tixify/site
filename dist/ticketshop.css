@@ -21,8 +21,12 @@
 }
 
 body {
-    font-family: 'Averta_Regular', sans-serif;
+    font-family: Averta_Regular, sans-serif;
     overflow-x: hidden;
+}
+.animation_wrapper_4{
+	transform: translate(0%, -51%);
+
 }
 
 .wrapper4985 {
@@ -35,7 +39,7 @@ body {
 }
 
 text {
-    font-family: 'Averta_Regular', sans-serif;
+    font-family: Averta_Regular, sans-serif;
 
 }
 
@@ -86,7 +90,7 @@ text {
     top: 0;
     left: 0;
     right: 0;
-    bottom: 200px;
+    bottom: 100px;
     display: flex;
     align-items: flex-end;
 }
@@ -108,7 +112,7 @@ text {
     align-items: flex-end;
     justify-content: center;
     position: absolute;
-    bottom: 100px;
+    bottom: -0px;
     left: 0;
     right: 0;
 }
@@ -121,7 +125,7 @@ text {
     gap: 20px;
     position: fixed;
     top: 0;
-    bottom: 100px;
+    bottom: 0;
 }
 
 .section_1 .in_section .animation_wrapper_3 {
@@ -132,7 +136,7 @@ text {
     gap: 20px;
     position: fixed;
     top: 0;
-    bottom: 100px;
+    bottom: 0;
     /* opacity: 0; */
 }
 
@@ -144,7 +148,7 @@ text {
     gap: 20px;
     position: fixed;
     top: 0;
-    bottom: 100px;
+    bottom: 0;
     /* opacity: 0; */
 }
 

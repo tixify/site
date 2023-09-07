@@ -43,7 +43,7 @@ function all() {
                 scrollTrigger: {
                     trigger: '.animation_block',
                     start: 'top 140',
-                    end: '+=2000000',
+                    end: '+=200000',
                     pin: true,
                     scrub: true
                 }
@@ -89,8 +89,8 @@ function all() {
                 {
                     scrollTrigger: {
                         trigger: '.section_3',
-                        start: 'top center',
-                        end: 'center center',
+                        start: '0% 60%',
+                        end: '60% 60%',
                         scrub: true,
                         // markers: true,
                         toggleActions: 'restart',
@@ -127,12 +127,12 @@ function all() {
             .to('.block_3',
                 {
                     scrollTrigger: {
-                        trigger: '.section_4',
-                        start: 'top center',
-                        end: 'center center',
-                        scrub: true,
-                        // markers: true,
-                        toggleActions: 'restart',
+											trigger: '.section_4',
+											start: 'top-=400px center',
+											end: '80% 90%',
+											scrub: true,
+											// markers: true,
+											toggleActions: 'restart',
                     },
                     opacity: 1,
                     x: 0,
@@ -152,8 +152,8 @@ function all() {
                 {
                     scrollTrigger: {
                         trigger: `#${dataSection_5}`,
-                        start: 'top center',
-                        // end: 'bottom center',
+                        start: 'top-=300px center',
+                        end: '100% 100%',
                         scrub: true,
                         // markers: true
                         // toggleActions: 'restart',
@@ -166,8 +166,8 @@ function all() {
             .from('.animation_wrapper_2', {
                 scrollTrigger: {
                     trigger: '.section_5',
-                    start: 'top center',
-                    end: 'bottom center',
+                    start: 'top-=300px center',
+                    end: '100% 100%',
                     scrub: true,
                     // markers: true
                     // toggleActions: 'restart',
@@ -178,9 +178,9 @@ function all() {
 
             .to('.block_aw1', {
                 scrollTrigger: {
-                    trigger: `#${dataSection_6}`,
-                    start: 'top center',
-                    end: 'center center',
+                    trigger: `#${dataSection_5}`,
+                    start: 'top-=500px center',
+                    end: '100% 100%',
                     scrub: true,
                     // markers: true
                     // toggleActions: 'restart',
@@ -192,10 +192,10 @@ function all() {
 
             .to('.block_svg', {
                 scrollTrigger: {
-                    trigger: '.section_6',
-                    start: 'top center',
-                    end: 'center center',
-                    scrub: true,
+                    trigger: '.section_5',
+                    start: 'top-=500px center',
+                    end: '0%',
+                    scrub: true
                     // markers: true
                     // toggleActions: 'restart',
                 },
@@ -207,10 +207,10 @@ function all() {
             .to('.in_anim_w2',
                 {
                     scrollTrigger: {
-                        trigger: `#${dataSection_7}`,
-                        start: 'top center',
-                        // end: 'bottom center',
-                        scrub: true,
+                        trigger: `#${dataSection_6}`,
+                        start: 'top-=500px center',
+												end: '0%',
+                        scrub: true
                         // markers: true
                         // toggleActions: 'restart',
                     },
@@ -221,10 +221,10 @@ function all() {
             )
             .from('.animation_wrapper_3', {
                 scrollTrigger: {
-                    trigger: '.section_7',
-                    start: 'top center',
-                    end: 'bottom center',
-                    scrub: true,
+                    trigger: '.section_6',
+                    start: 'top-=500px center',
+                    end: '10%',
+                    scrub: true
                     // markers: true
                     // toggleActions: 'restart',
                 },
@@ -234,10 +234,11 @@ function all() {
             .to('.in_anim_w3',
                 {
                     scrollTrigger: {
-                        trigger: `#${dataSection_9}`,
-                        start: 'top center',
-                        // end: 'bottom center',
+                        trigger: `#${dataSection_7}`,
+                        start: 'top-=700px center',
+												end: '+300%',
                         scrub: true,
+
                         // markers: true
                         // toggleActions: 'restart',
                     },
@@ -248,27 +249,33 @@ function all() {
             )
             .from('.animation_wrapper_4', {
                 scrollTrigger: {
-                    trigger: '.section_9',
-                    start: 'top center',
-                    end: 'bottom center',
+                    trigger: '.section_7',
+                    start: 'top-=500px center',
+                    end: '300% 50%',
                     scrub: true,
-                    // markers: true
+                    // markers: true,
+
                     // toggleActions: 'restart',
                 },
+								
                 opacity: 0,
                 scale: .5,
+								
             })
+						
             .to('.animation_wrapper_4', {
                 scrollTrigger: {
-                    trigger: `#${dataSection_11}`,
-                    start: 'center center',
-                    // end: 'bottom center',
+                    trigger: `#${dataSection_6}`,
+                    start: 'top-=500px center',
+                    end: '50% 50%',
                     scrub: true,
                     // markers: true
                     // toggleActions: 'restart',
                 },
+
                 css: {
                     position: 'static',
+										transform: 'translate(-500px -400px)'
                 }
             })
 
@@ -471,7 +478,7 @@ function all() {
         gsap.set(['#speak-their-language-card-1', '#speak-their-language-card-2', '#speak-their-language-card-3'], { x: 20 })
         const TLanimation_3 = gsap.timeline({
             repeat: -1, delay: .7, repeatDelay: .7, defaults: { ease: "sine.inOut" }, scrollTrigger: {
-                trigger: `#${dataSection_8}`,
+                trigger: `#${dataSection_6}`,
                 start: 'top center',
                 end: 'center center',
                 // markers: true,
@@ -1476,11 +1483,11 @@ function all() {
                                    <div id="contact-details-auto-fill" class="mobile"
                                        style="opacity: 1; transform: translate(-50px, -95px);">
                                        <div class="fill-option active">
-                                           <p class="name">Dani Van O.” Home</p>
+                                           <p class="name">Dani Van O.â€ Home</p>
                                            <p class="sub">Fill details.</p>
                                        </div>
                                        <div class="fill-option">
-                                           <p class="name">Dani Van O.” Work</p>
+                                           <p class="name">Dani Van O.â€ Work</p>
                                            <p class="sub">Fill details.</p>
                                        </div>
                                    </div>
@@ -1930,7 +1937,7 @@ function all() {
                                                        letter-spacing="-0.015em">
                                                        <tspan x="169.733" y="132.498">MASTERCARD PLATINUM
                                                        </tspan>
-                                                       <tspan x="169.733" y="156.498">(â€¢â€¢â€¢â€¢ 2505)</tspan>
+                                                       <tspan x="169.733" y="156.498">(Ã¢€Â¢Ã¢€Â¢Ã¢€Â¢Ã¢€Â¢ 2505)</tspan>
                                                    </text>
                                                    <path
                                                        d="M78.0771 116.955C78.0771 115.851 78.9726 114.955 80.0771 114.955H143.97C145.075 114.955 145.97 115.851 145.97 116.955V157.086C145.97 158.19 145.075 159.086 143.97 159.086H80.0772C78.9726 159.086 78.0771 158.19 78.0771 157.086V116.955Z"
@@ -2274,7 +2281,233 @@ function all() {
                            <div class="block_aw_3">
                                <div class="speak-their-language__wrapper">
                                    <svg id="speak-their-language-card-0"
-                                       style="position: absolute; margin-left: -8px; margin-top: -4px; transform: translate(0px, 0px);"
+																	 style="position: absolute; margin-left: -8px; margin-top: -4px; transform: translate(0px, 0px);"
+																	 width="344" height="503" viewBox="0 0 344 503" fill="none"
+																	 xmlns="http://www.w3.org/2000/svg">
+																	 <!--                    <rect x="8" y="3" width="328" height="486" rx="12" fill="white"/>-->
+																	 <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
+
+																	 <text fill="black" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="13" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="28" y="38.81">Voornaam<tspan fill="#8353F9"> *</tspan>
+																			 </tspan>
+																	 </text>
+																	 <path
+																			 d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
+																			 fill="white"></path>
+																	 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="14" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="40" y="73.18">Voornaam</tspan>
+																	 </text>
+																	 <path
+																			 d="M34 49.5H310V46.5H34V49.5ZM314.5 54V82H317.5V54H314.5ZM310 86.5H34V89.5H310V86.5ZM29.5 82V54H26.5V82H29.5ZM34 86.5C31.5147 86.5 29.5 84.4853 29.5 82H26.5C26.5 86.1421 29.8579 89.5 34 89.5V86.5ZM314.5 82C314.5 84.4853 312.485 86.5 310 86.5V89.5C314.142 89.5 317.5 86.1421 317.5 82H314.5ZM310 49.5C312.485 49.5 314.5 51.5147 314.5 54H317.5C317.5 49.8579 314.142 46.5 310 46.5V49.5ZM34 46.5C29.8579 46.5 26.5 49.8579 26.5 54H29.5C29.5 51.5147 31.5147 49.5 34 49.5V46.5Z"
+																			 fill="black" fill-opacity="0.1"></path>
+																	 <text fill="black" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="13" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="28" y="118.81">Achternaam<tspan fill="#8353F9"> *</tspan>
+																			 </tspan>
+																	 </text>
+																	 <path
+																			 d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
+																			 fill="white"></path>
+																	 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="14" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="40" y="153.18">Achternaam</tspan>
+																	 </text>
+																	 <path
+																			 d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
+																			 fill="black" fill-opacity="0.1"></path>
+																	 <text fill="black" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="13" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="28" y="198.81">E-mail adres<tspan fill="#8353F9"> *</tspan>
+																			 </tspan>
+																	 </text>
+																	 <path
+																			 d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
+																			 fill="white"></path>
+																	 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="14" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="40" y="233.18">E-mail adres</tspan>
+																	 </text>
+																	 <path
+																			 d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
+																			 fill="black" fill-opacity="0.1"></path>
+																	 <text fill="black" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="13" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="28" y="278.81">Stad<tspan fill="#8353F9"> *</tspan>
+																			 </tspan>
+																	 </text>
+																	 <path
+																			 d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
+																			 fill="white"></path>
+																	 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="14" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="40" y="313.18">Stad</tspan>
+																	 </text>
+																	 <path
+																			 d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
+																			 fill="black" fill-opacity="0.1"></path>
+																	 <text fill="black" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="13" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="28" y="358.81">Geboortedatum<tspan fill="#8353F9"> *</tspan>
+																			 </tspan>
+																	 </text>
+																	 <g filter="url(#filter1_d_3559_16576)">
+																			 <path
+																					 d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
+																					 fill="white"></path>
+																			 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																					 font-family="Averta_Regular" font-size="14" font-weight="500"
+																					 letter-spacing="0em">
+																					 <tspan x="40" y="393.18">Dag</tspan>
+																			 </text>
+																			 <path fill-rule="evenodd" clip-rule="evenodd"
+																					 d="M88.0002 388.719L83.6249 385.219L82.3755 386.78L87.3755 390.78H88.6249L93.6249 386.78L92.3755 385.219L88.0002 388.719Z"
+																					 fill="black"></path>
+																			 <path
+																					 d="M34 369.5H102V366.5H34V369.5ZM106.5 374V402H109.5V374H106.5ZM102 406.5H34V409.5H102V406.5ZM29.5 402V374H26.5V402H29.5ZM34 406.5C31.5147 406.5 29.5 404.485 29.5 402H26.5C26.5 406.142 29.8579 409.5 34 409.5V406.5ZM106.5 402C106.5 404.485 104.485 406.5 102 406.5V409.5C106.142 409.5 109.5 406.142 109.5 402H106.5ZM102 369.5C104.485 369.5 106.5 371.515 106.5 374H109.5C109.5 369.858 106.142 366.5 102 366.5V369.5ZM34 366.5C29.8579 366.5 26.5 369.858 26.5 374H29.5C29.5 371.515 31.5147 369.5 34 369.5V366.5Z"
+																					 fill="black" fill-opacity="0.05"></path>
+																	 </g>
+																	 <g filter="url(#filter2_d_3559_16576)">
+																			 <path
+																					 d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
+																					 fill="white"></path>
+																			 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																					 font-family="Averta_Regular" font-size="14" font-weight="500"
+																					 letter-spacing="0em">
+																					 <tspan x="128" y="393.18">Maand</tspan>
+																			 </text>
+																			 <path fill-rule="evenodd" clip-rule="evenodd"
+																					 d="M200 388.719L195.625 385.219L194.375 386.78L199.375 390.78H200.625L205.625 386.78L204.375 385.219L200 388.719Z"
+																					 fill="black"></path>
+																			 <path
+																					 d="M122 369.5H214V366.5H122V369.5ZM218.5 374V402H221.5V374H218.5ZM214 406.5H122V409.5H214V406.5ZM117.5 402V374H114.5V402H117.5ZM122 406.5C119.515 406.5 117.5 404.485 117.5 402H114.5C114.5 406.142 117.858 409.5 122 409.5V406.5ZM218.5 402C218.5 404.485 216.485 406.5 214 406.5V409.5C218.142 409.5 221.5 406.142 221.5 402H218.5ZM214 369.5C216.485 369.5 218.5 371.515 218.5 374H221.5C221.5 369.858 218.142 366.5 214 366.5V369.5ZM122 366.5C117.858 366.5 114.5 369.858 114.5 374H117.5C117.5 371.515 119.515 369.5 122 369.5V366.5Z"
+																					 fill="black" fill-opacity="0.05"></path>
+																	 </g>
+																	 <g filter="url(#filter3_d_3559_16576)">
+																			 <path
+																					 d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
+																					 fill="white"></path>
+																			 <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
+																					 font-family="Averta_Regular" font-size="14" font-weight="500"
+																					 letter-spacing="0em">
+																					 <tspan x="240" y="393.18">Jaar</tspan>
+																			 </text>
+																			 <path fill-rule="evenodd" clip-rule="evenodd"
+																					 d="M296 388.719L291.625 385.219L290.375 386.78L295.375 390.78H296.625L301.625 386.78L300.375 385.219L296 388.719Z"
+																					 fill="black"></path>
+																			 <path
+																					 d="M234 369.5H310V366.5H234V369.5ZM314.5 374V402H317.5V374H314.5ZM310 406.5H234V409.5H310V406.5ZM229.5 402V374H226.5V402H229.5ZM234 406.5C231.515 406.5 229.5 404.485 229.5 402H226.5C226.5 406.142 229.858 409.5 234 409.5V406.5ZM314.5 402C314.5 404.485 312.485 406.5 310 406.5V409.5C314.142 409.5 317.5 406.142 317.5 402H314.5ZM310 369.5C312.485 369.5 314.5 371.515 314.5 374H317.5C317.5 369.858 314.142 366.5 310 366.5V369.5ZM234 366.5C229.858 366.5 226.5 369.858 226.5 374H229.5C229.5 371.515 231.515 369.5 234 369.5V366.5Z"
+																					 fill="black" fill-opacity="0.05"></path>
+																	 </g>
+																	 <rect x="8" y="428" width="328" height="1" fill="black" fill-opacity="0.03">
+																	 </rect>
+																	 <path
+																			 d="M28 455C28 451.686 30.6863 449 34 449H42C45.3137 449 48 451.686 48 455V463C48 466.314 45.3137 469 42 469H34C30.6863 469 28 466.314 28 463V455Z"
+																			 fill="#8353F9"></path>
+																	 <path fill-rule="evenodd" clip-rule="evenodd"
+																			 d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
+																			 fill="white" stroke="white" stroke-width="0.5"></path>
+																	 <text fill="black" xml:space="preserve" style="white-space: pre"
+																			 font-family="Averta_Regular" font-size="13" font-weight="500"
+																			 letter-spacing="0em">
+																			 <tspan x="60" y="463.81">Stuur mij updates over dit evenement</tspan>
+																	 </text>
+
+
+
+																	 <defs>
+																			 <filter id="filter0_dd_3559_16576" x="0" y="0" width="344" height="503"
+																					 filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+																					 <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+																					 <feColorMatrix in="SourceAlpha" type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+																							 result="hardAlpha"></feColorMatrix>
+																					 <feMorphology radius="8" operator="erode" in="SourceAlpha"
+																							 result="effect1_dropShadow_3559_16576"></feMorphology>
+																					 <feOffset dy="6"></feOffset>
+																					 <feGaussianBlur stdDeviation="8"></feGaussianBlur>
+																					 <feColorMatrix type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"></feColorMatrix>
+																					 <feBlend mode="normal" in2="BackgroundImageFix"
+																							 result="effect1_dropShadow_3559_16576"></feBlend>
+																					 <feColorMatrix in="SourceAlpha" type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+																							 result="hardAlpha"></feColorMatrix>
+																					 <feOffset dy="1"></feOffset>
+																					 <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+																					 <feColorMatrix type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"></feColorMatrix>
+																					 <feBlend mode="normal" in2="effect1_dropShadow_3559_16576"
+																							 result="effect2_dropShadow_3559_16576"></feBlend>
+																					 <feBlend mode="normal" in="SourceGraphic"
+																							 in2="effect2_dropShadow_3559_16576" result="shape"></feBlend>
+																			 </filter>
+																			 <filter id="filter1_d_3559_16576" x="24.5" y="366.5" width="87" height="47"
+																					 filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+																					 <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+																					 <feColorMatrix in="SourceAlpha" type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+																							 result="hardAlpha"></feColorMatrix>
+																					 <feMorphology radius="2" operator="erode" in="SourceAlpha"
+																							 result="effect1_dropShadow_3559_16576"></feMorphology>
+																					 <feOffset dy="2"></feOffset>
+																					 <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+																					 <feColorMatrix type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+																					 <feBlend mode="normal" in2="BackgroundImageFix"
+																							 result="effect1_dropShadow_3559_16576"></feBlend>
+																					 <feBlend mode="normal" in="SourceGraphic"
+																							 in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
+																			 </filter>
+																			 <filter id="filter2_d_3559_16576" x="112.5" y="366.5" width="111"
+																					 height="47" filterUnits="userSpaceOnUse"
+																					 color-interpolation-filters="sRGB">
+																					 <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+																					 <feColorMatrix in="SourceAlpha" type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+																							 result="hardAlpha"></feColorMatrix>
+																					 <feMorphology radius="2" operator="erode" in="SourceAlpha"
+																							 result="effect1_dropShadow_3559_16576"></feMorphology>
+																					 <feOffset dy="2"></feOffset>
+																					 <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+																					 <feColorMatrix type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+																					 <feBlend mode="normal" in2="BackgroundImageFix"
+																							 result="effect1_dropShadow_3559_16576"></feBlend>
+																					 <feBlend mode="normal" in="SourceGraphic"
+																							 in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
+																			 </filter>
+																			 <filter id="filter3_d_3559_16576" x="224.5" y="366.5" width="95" height="47"
+																					 filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+																					 <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+																					 <feColorMatrix in="SourceAlpha" type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+																							 result="hardAlpha"></feColorMatrix>
+																					 <feMorphology radius="2" operator="erode" in="SourceAlpha"
+																							 result="effect1_dropShadow_3559_16576"></feMorphology>
+																					 <feOffset dy="2"></feOffset>
+																					 <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+																					 <feColorMatrix type="matrix"
+																							 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+																					 <feBlend mode="normal" in2="BackgroundImageFix"
+																							 result="effect1_dropShadow_3559_16576"></feBlend>
+																					 <feBlend mode="normal" in="SourceGraphic"
+																							 in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
+																			 </filter>
+																	 </defs>
+                                   </svg>
+                                   <svg id="speak-their-language-card-1"
+																	 style="position: absolute; margin-left: -8px; margin-top: -4px; transform: translate(-328px, 0px);"
                                        width="344" height="503" viewBox="0 0 344 503" fill="none"
                                        xmlns="http://www.w3.org/2000/svg">
                                        <!--                    <rect x="8" y="3" width="328" height="486" rx="12" fill="white"/>-->
@@ -2498,232 +2731,7 @@ function all() {
                                                    in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
                                            </filter>
                                        </defs>
-                                   </svg>
-                                   <svg id="speak-their-language-card-1"
-                                       style="position: absolute; margin-left: -8px; margin-top: -4px; transform: translate(-328px, 0px);"
-                                       width="344" height="503" viewBox="0 0 344 503" fill="none"
-                                       xmlns="http://www.w3.org/2000/svg">
-                                       <!--                    <rect x="8" y="3" width="328" height="486" rx="12" fill="white"/>-->
-                                       <!--        <rect x="8" y="3" width="328" height="1" fill="black" fill-opacity="0.03"/>-->
-
-                                       <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="13" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="28" y="38.81">Voornaam<tspan fill="#8353F9"> *</tspan>
-                                           </tspan>
-                                       </text>
-                                       <path
-                                           d="M28 54C28 50.6863 30.6863 48 34 48H310C313.314 48 316 50.6863 316 54V82C316 85.3137 313.314 88 310 88H34C30.6863 88 28 85.3137 28 82V54Z"
-                                           fill="white"></path>
-                                       <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="14" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="40" y="73.18">Voornaam</tspan>
-                                       </text>
-                                       <path
-                                           d="M34 49.5H310V46.5H34V49.5ZM314.5 54V82H317.5V54H314.5ZM310 86.5H34V89.5H310V86.5ZM29.5 82V54H26.5V82H29.5ZM34 86.5C31.5147 86.5 29.5 84.4853 29.5 82H26.5C26.5 86.1421 29.8579 89.5 34 89.5V86.5ZM314.5 82C314.5 84.4853 312.485 86.5 310 86.5V89.5C314.142 89.5 317.5 86.1421 317.5 82H314.5ZM310 49.5C312.485 49.5 314.5 51.5147 314.5 54H317.5C317.5 49.8579 314.142 46.5 310 46.5V49.5ZM34 46.5C29.8579 46.5 26.5 49.8579 26.5 54H29.5C29.5 51.5147 31.5147 49.5 34 49.5V46.5Z"
-                                           fill="black" fill-opacity="0.1"></path>
-                                       <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="13" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="28" y="118.81">Achternaam<tspan fill="#8353F9"> *</tspan>
-                                           </tspan>
-                                       </text>
-                                       <path
-                                           d="M28 134C28 130.686 30.6863 128 34 128H310C313.314 128 316 130.686 316 134V162C316 165.314 313.314 168 310 168H34C30.6863 168 28 165.314 28 162V134Z"
-                                           fill="white"></path>
-                                       <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="14" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="40" y="153.18">Achternaam</tspan>
-                                       </text>
-                                       <path
-                                           d="M34 129.5H310V126.5H34V129.5ZM314.5 134V162H317.5V134H314.5ZM310 166.5H34V169.5H310V166.5ZM29.5 162V134H26.5V162H29.5ZM34 166.5C31.5147 166.5 29.5 164.485 29.5 162H26.5C26.5 166.142 29.8579 169.5 34 169.5V166.5ZM314.5 162C314.5 164.485 312.485 166.5 310 166.5V169.5C314.142 169.5 317.5 166.142 317.5 162H314.5ZM310 129.5C312.485 129.5 314.5 131.515 314.5 134H317.5C317.5 129.858 314.142 126.5 310 126.5V129.5ZM34 126.5C29.8579 126.5 26.5 129.858 26.5 134H29.5C29.5 131.515 31.5147 129.5 34 129.5V126.5Z"
-                                           fill="black" fill-opacity="0.1"></path>
-                                       <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="13" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="28" y="198.81">E-mail adres<tspan fill="#8353F9"> *</tspan>
-                                           </tspan>
-                                       </text>
-                                       <path
-                                           d="M28 214C28 210.686 30.6863 208 34 208H310C313.314 208 316 210.686 316 214V242C316 245.314 313.314 248 310 248H34C30.6863 248 28 245.314 28 242V214Z"
-                                           fill="white"></path>
-                                       <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="14" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="40" y="233.18">E-mail adres</tspan>
-                                       </text>
-                                       <path
-                                           d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
-                                           fill="black" fill-opacity="0.1"></path>
-                                       <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="13" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="28" y="278.81">Stad<tspan fill="#8353F9"> *</tspan>
-                                           </tspan>
-                                       </text>
-                                       <path
-                                           d="M28 294C28 290.686 30.6863 288 34 288H310C313.314 288 316 290.686 316 294V322C316 325.314 313.314 328 310 328H34C30.6863 328 28 325.314 28 322V294Z"
-                                           fill="white"></path>
-                                       <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="14" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="40" y="313.18">Stad</tspan>
-                                       </text>
-                                       <path
-                                           d="M34 289.5H310V286.5H34V289.5ZM314.5 294V322H317.5V294H314.5ZM310 326.5H34V329.5H310V326.5ZM29.5 322V294H26.5V322H29.5ZM34 326.5C31.5147 326.5 29.5 324.485 29.5 322H26.5C26.5 326.142 29.8579 329.5 34 329.5V326.5ZM314.5 322C314.5 324.485 312.485 326.5 310 326.5V329.5C314.142 329.5 317.5 326.142 317.5 322H314.5ZM310 289.5C312.485 289.5 314.5 291.515 314.5 294H317.5C317.5 289.858 314.142 286.5 310 286.5V289.5ZM34 286.5C29.8579 286.5 26.5 289.858 26.5 294H29.5C29.5 291.515 31.5147 289.5 34 289.5V286.5Z"
-                                           fill="black" fill-opacity="0.1"></path>
-                                       <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="13" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="28" y="358.81">Geboortedatum<tspan fill="#8353F9"> *</tspan>
-                                           </tspan>
-                                       </text>
-                                       <g filter="url(#filter1_d_3559_16576)">
-                                           <path
-                                               d="M28 374C28 370.686 30.6863 368 34 368H102C105.314 368 108 370.686 108 374V402C108 405.314 105.314 408 102 408H34C30.6863 408 28 405.314 28 402V374Z"
-                                               fill="white"></path>
-                                           <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Averta_Regular" font-size="14" font-weight="500"
-                                               letter-spacing="0em">
-                                               <tspan x="40" y="393.18">Dag</tspan>
-                                           </text>
-                                           <path fill-rule="evenodd" clip-rule="evenodd"
-                                               d="M88.0002 388.719L83.6249 385.219L82.3755 386.78L87.3755 390.78H88.6249L93.6249 386.78L92.3755 385.219L88.0002 388.719Z"
-                                               fill="black"></path>
-                                           <path
-                                               d="M34 369.5H102V366.5H34V369.5ZM106.5 374V402H109.5V374H106.5ZM102 406.5H34V409.5H102V406.5ZM29.5 402V374H26.5V402H29.5ZM34 406.5C31.5147 406.5 29.5 404.485 29.5 402H26.5C26.5 406.142 29.8579 409.5 34 409.5V406.5ZM106.5 402C106.5 404.485 104.485 406.5 102 406.5V409.5C106.142 409.5 109.5 406.142 109.5 402H106.5ZM102 369.5C104.485 369.5 106.5 371.515 106.5 374H109.5C109.5 369.858 106.142 366.5 102 366.5V369.5ZM34 366.5C29.8579 366.5 26.5 369.858 26.5 374H29.5C29.5 371.515 31.5147 369.5 34 369.5V366.5Z"
-                                               fill="black" fill-opacity="0.05"></path>
-                                       </g>
-                                       <g filter="url(#filter2_d_3559_16576)">
-                                           <path
-                                               d="M116 374C116 370.686 118.686 368 122 368H214C217.314 368 220 370.686 220 374V402C220 405.314 217.314 408 214 408H122C118.686 408 116 405.314 116 402V374Z"
-                                               fill="white"></path>
-                                           <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Averta_Regular" font-size="14" font-weight="500"
-                                               letter-spacing="0em">
-                                               <tspan x="128" y="393.18">Maand</tspan>
-                                           </text>
-                                           <path fill-rule="evenodd" clip-rule="evenodd"
-                                               d="M200 388.719L195.625 385.219L194.375 386.78L199.375 390.78H200.625L205.625 386.78L204.375 385.219L200 388.719Z"
-                                               fill="black"></path>
-                                           <path
-                                               d="M122 369.5H214V366.5H122V369.5ZM218.5 374V402H221.5V374H218.5ZM214 406.5H122V409.5H214V406.5ZM117.5 402V374H114.5V402H117.5ZM122 406.5C119.515 406.5 117.5 404.485 117.5 402H114.5C114.5 406.142 117.858 409.5 122 409.5V406.5ZM218.5 402C218.5 404.485 216.485 406.5 214 406.5V409.5C218.142 409.5 221.5 406.142 221.5 402H218.5ZM214 369.5C216.485 369.5 218.5 371.515 218.5 374H221.5C221.5 369.858 218.142 366.5 214 366.5V369.5ZM122 366.5C117.858 366.5 114.5 369.858 114.5 374H117.5C117.5 371.515 119.515 369.5 122 369.5V366.5Z"
-                                               fill="black" fill-opacity="0.05"></path>
-                                       </g>
-                                       <g filter="url(#filter3_d_3559_16576)">
-                                           <path
-                                               d="M228 374C228 370.686 230.686 368 234 368H310C313.314 368 316 370.686 316 374V402C316 405.314 313.314 408 310 408H234C230.686 408 228 405.314 228 402V374Z"
-                                               fill="white"></path>
-                                           <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
-                                               font-family="Averta_Regular" font-size="14" font-weight="500"
-                                               letter-spacing="0em">
-                                               <tspan x="240" y="393.18">Jaar</tspan>
-                                           </text>
-                                           <path fill-rule="evenodd" clip-rule="evenodd"
-                                               d="M296 388.719L291.625 385.219L290.375 386.78L295.375 390.78H296.625L301.625 386.78L300.375 385.219L296 388.719Z"
-                                               fill="black"></path>
-                                           <path
-                                               d="M234 369.5H310V366.5H234V369.5ZM314.5 374V402H317.5V374H314.5ZM310 406.5H234V409.5H310V406.5ZM229.5 402V374H226.5V402H229.5ZM234 406.5C231.515 406.5 229.5 404.485 229.5 402H226.5C226.5 406.142 229.858 409.5 234 409.5V406.5ZM314.5 402C314.5 404.485 312.485 406.5 310 406.5V409.5C314.142 409.5 317.5 406.142 317.5 402H314.5ZM310 369.5C312.485 369.5 314.5 371.515 314.5 374H317.5C317.5 369.858 314.142 366.5 310 366.5V369.5ZM234 366.5C229.858 366.5 226.5 369.858 226.5 374H229.5C229.5 371.515 231.515 369.5 234 369.5V366.5Z"
-                                               fill="black" fill-opacity="0.05"></path>
-                                       </g>
-                                       <rect x="8" y="428" width="328" height="1" fill="black" fill-opacity="0.03">
-                                       </rect>
-                                       <path
-                                           d="M28 455C28 451.686 30.6863 449 34 449H42C45.3137 449 48 451.686 48 455V463C48 466.314 45.3137 469 42 469H34C30.6863 469 28 466.314 28 463V455Z"
-                                           fill="#8353F9"></path>
-                                       <path fill-rule="evenodd" clip-rule="evenodd"
-                                           d="M42.5654 455.353L37.5654 463.353L36.4284 463.343L33.4284 458.343L34.5718 457.657L37.0117 461.723L41.4348 454.646L42.5654 455.353Z"
-                                           fill="white" stroke="white" stroke-width="0.5"></path>
-                                       <text fill="black" xml:space="preserve" style="white-space: pre"
-                                           font-family="Averta_Regular" font-size="13" font-weight="500"
-                                           letter-spacing="0em">
-                                           <tspan x="60" y="463.81">Stuur mij updates over dit evenement</tspan>
-                                       </text>
-
-
-
-                                       <defs>
-                                           <filter id="filter0_dd_3559_16576" x="0" y="0" width="344" height="503"
-                                               filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                               <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
-                                               <feColorMatrix in="SourceAlpha" type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                                                   result="hardAlpha"></feColorMatrix>
-                                               <feMorphology radius="8" operator="erode" in="SourceAlpha"
-                                                   result="effect1_dropShadow_3559_16576"></feMorphology>
-                                               <feOffset dy="6"></feOffset>
-                                               <feGaussianBlur stdDeviation="8"></feGaussianBlur>
-                                               <feColorMatrix type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"></feColorMatrix>
-                                               <feBlend mode="normal" in2="BackgroundImageFix"
-                                                   result="effect1_dropShadow_3559_16576"></feBlend>
-                                               <feColorMatrix in="SourceAlpha" type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                                                   result="hardAlpha"></feColorMatrix>
-                                               <feOffset dy="1"></feOffset>
-                                               <feGaussianBlur stdDeviation="2"></feGaussianBlur>
-                                               <feColorMatrix type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"></feColorMatrix>
-                                               <feBlend mode="normal" in2="effect1_dropShadow_3559_16576"
-                                                   result="effect2_dropShadow_3559_16576"></feBlend>
-                                               <feBlend mode="normal" in="SourceGraphic"
-                                                   in2="effect2_dropShadow_3559_16576" result="shape"></feBlend>
-                                           </filter>
-                                           <filter id="filter1_d_3559_16576" x="24.5" y="366.5" width="87" height="47"
-                                               filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                               <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
-                                               <feColorMatrix in="SourceAlpha" type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                                                   result="hardAlpha"></feColorMatrix>
-                                               <feMorphology radius="2" operator="erode" in="SourceAlpha"
-                                                   result="effect1_dropShadow_3559_16576"></feMorphology>
-                                               <feOffset dy="2"></feOffset>
-                                               <feGaussianBlur stdDeviation="2"></feGaussianBlur>
-                                               <feColorMatrix type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
-                                               <feBlend mode="normal" in2="BackgroundImageFix"
-                                                   result="effect1_dropShadow_3559_16576"></feBlend>
-                                               <feBlend mode="normal" in="SourceGraphic"
-                                                   in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
-                                           </filter>
-                                           <filter id="filter2_d_3559_16576" x="112.5" y="366.5" width="111"
-                                               height="47" filterUnits="userSpaceOnUse"
-                                               color-interpolation-filters="sRGB">
-                                               <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
-                                               <feColorMatrix in="SourceAlpha" type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                                                   result="hardAlpha"></feColorMatrix>
-                                               <feMorphology radius="2" operator="erode" in="SourceAlpha"
-                                                   result="effect1_dropShadow_3559_16576"></feMorphology>
-                                               <feOffset dy="2"></feOffset>
-                                               <feGaussianBlur stdDeviation="2"></feGaussianBlur>
-                                               <feColorMatrix type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
-                                               <feBlend mode="normal" in2="BackgroundImageFix"
-                                                   result="effect1_dropShadow_3559_16576"></feBlend>
-                                               <feBlend mode="normal" in="SourceGraphic"
-                                                   in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
-                                           </filter>
-                                           <filter id="filter3_d_3559_16576" x="224.5" y="366.5" width="95" height="47"
-                                               filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                               <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
-                                               <feColorMatrix in="SourceAlpha" type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                                                   result="hardAlpha"></feColorMatrix>
-                                               <feMorphology radius="2" operator="erode" in="SourceAlpha"
-                                                   result="effect1_dropShadow_3559_16576"></feMorphology>
-                                               <feOffset dy="2"></feOffset>
-                                               <feGaussianBlur stdDeviation="2"></feGaussianBlur>
-                                               <feColorMatrix type="matrix"
-                                                   values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
-                                               <feBlend mode="normal" in2="BackgroundImageFix"
-                                                   result="effect1_dropShadow_3559_16576"></feBlend>
-                                               <feBlend mode="normal" in="SourceGraphic"
-                                                   in2="effect1_dropShadow_3559_16576" result="shape"></feBlend>
-                                           </filter>
-                                       </defs>
+                                       
                                    </svg>
                                    <svg id="speak-their-language-card-2"
                                        style="position: absolute; margin-left: -8px; margin-top: -4px; transform: translate(-328px, 0px);"
@@ -2995,7 +3003,7 @@ function all() {
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
                                            font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
-                                           <tspan x="28" y="198.81">Correo electrÃ³nico<tspan fill="#8353F9"> *</tspan>
+                                           <tspan x="28" y="198.81">Correo electronico<tspan fill="#8353F9"> *</tspan>
                                            </tspan>
                                        </text>
                                        <path
@@ -3004,7 +3012,7 @@ function all() {
                                        <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
                                            font-family="Averta_Regular" font-size="14" font-weight="500"
                                            letter-spacing="0em">
-                                           <tspan x="40" y="233.18">Correo electrÃ³nico</tspan>
+                                           <tspan x="40" y="233.18">Correo electronico</tspan>
                                        </text>
                                        <path
                                            d="M34 209.5H310V206.5H34V209.5ZM314.5 214V242H317.5V214H314.5ZM310 246.5H34V249.5H310V246.5ZM29.5 242V214H26.5V242H29.5ZM34 246.5C31.5147 246.5 29.5 244.485 29.5 242H26.5C26.5 246.142 29.8579 249.5 34 249.5V246.5ZM314.5 242C314.5 244.485 312.485 246.5 310 246.5V249.5C314.142 249.5 317.5 246.142 317.5 242H314.5ZM310 209.5C312.485 209.5 314.5 211.515 314.5 214H317.5C317.5 209.858 314.142 206.5 310 206.5V209.5ZM34 206.5C29.8579 206.5 26.5 209.858 26.5 214H29.5C29.5 211.515 31.5147 209.5 34 209.5V206.5Z"
@@ -3039,7 +3047,7 @@ function all() {
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
                                                font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
-                                               <tspan x="40" y="393.18">DÃ­a</tspan>
+                                               <tspan x="40" y="393.18">DÃƒÂ­a</tspan>
                                            </text>
                                            <path fill-rule="evenodd" clip-rule="evenodd"
                                                d="M88.0002 388.719L83.6249 385.219L82.3755 386.78L87.3755 390.78H88.6249L93.6249 386.78L92.3755 385.219L88.0002 388.719Z"
@@ -3071,7 +3079,7 @@ function all() {
                                            <text fill="#A5B1C3" xml:space="preserve" style="white-space: pre"
                                                font-family="Averta_Regular" font-size="14" font-weight="500"
                                                letter-spacing="0em">
-                                               <tspan x="240" y="393.18">AÃ±o</tspan>
+                                               <tspan x="240" y="393.18">AÃƒÂ±o</tspan>
                                            </text>
                                            <path fill-rule="evenodd" clip-rule="evenodd"
                                                d="M296 388.719L291.625 385.219L290.375 386.78L295.375 390.78H296.625L301.625 386.78L300.375 385.219L296 388.719Z"
@@ -3091,7 +3099,7 @@ function all() {
                                        <text fill="black" xml:space="preserve" style="white-space: pre"
                                            font-family="Averta_Regular" font-size="13" font-weight="500"
                                            letter-spacing="0em">
-                                           <tspan x="60" y="463.81">EnvÃ­ame actualizaciones</tspan>
+                                           <tspan x="60" y="463.81">EnvÃƒÂ­ame actualizaciones</tspan>
                                        </text>
 
 
@@ -3290,7 +3298,7 @@ function all() {
                <div class="second"></div>
            </div>
        </section>
-       <section id="section4985_7" class="section_4 section_7 section4985">
+       <section id="section4985_7" class="section_4 section_7 ">
            <div class="in_section container">
                <div class="first">
                    <!-- <h2>Text</h2>
@@ -3300,7 +3308,7 @@ function all() {
                <div class="second"></div>
            </div>
        </section>
-       <section id="section4985_8" class="section_8 section4985">
+       <section id="section4985_8" class="section_8">
            <div class="in_section container">
                <div class="first">
                    <!-- <h2>Text</h2>
@@ -3310,7 +3318,7 @@ function all() {
                <div class="second"></div>
            </div>
        </section>
-       <section id="section4985_9" class="section_9 section4985">
+       <section id="section4985_9" class="section_9">
            <div class="in_section container">
                <div class="first">
                    <!-- <h2>Text</h2>
@@ -3320,7 +3328,7 @@ function all() {
                <div class="second"></div>
            </div>
        </section>
-       <section id="section4985_10" class="section_10 section4985">
+       <section id="section4985_10" class="section_10">
            <div class="in_section container">
                <div class="first">
                    <!-- <h2>Text</h2>
@@ -3330,7 +3338,7 @@ function all() {
                <div class="second"></div>
            </div>
        </section>
-       <section id="section4985_11" class="section_11 section4985">
+       <section id="section4985_11" class="section_11">
            <div class="in_section_11 container">
                <div></div>
                <div class="second">
@@ -3654,7 +3662,7 @@ function all() {
                </div>
            </div>
        </section>
-       <section id="section4985_12" class="section_12 section4985"></section>
+			 <section id="section4985_12" class="section_12"></section>
    </div>
        `
 
