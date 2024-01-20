@@ -104,7 +104,7 @@ text {
     align-items: flex-end;
     justify-content: center;
     position: relative;
-    z-index: 1000;
+    z-index: 1;
 }
 
 .section_1 .second .animation_wrapper {
@@ -247,7 +247,7 @@ text {
     bottom: -30px;
     left: 0;
     right: 0; */
-    z-index: 11;
+    z-index: 2;
 }
 
 .list {
@@ -283,7 +283,7 @@ text {
     top: 0;
     right: 0;
     left: 0;
-    z-index: 10;
+    z-index: 1;
 }
 
 .animation_block svg {
